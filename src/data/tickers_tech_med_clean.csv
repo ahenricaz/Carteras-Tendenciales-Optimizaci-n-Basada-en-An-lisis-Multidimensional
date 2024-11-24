@@ -1,0 +1,182 @@
+Industry,Type,Ticker,Description
+5G Technology,Company,NOK,5G Technology Company
+5G Technology,Company,ERIC,5G Technology Company
+5G Technology,Company,SWKS,5G Technology Company
+5G Technology,Company,AVGO,5G Technology Company
+5G Technology,Company,TMUS,5G Technology Company
+5G Technology,Company,VZ,5G Technology Company
+5G Technology,ETF,FIVG,5G Technology ETF
+5G Technology,ETF,NXTG,5G Technology ETF
+5G Technology,ETF,IZRL,5G Technology ETF
+Artificial Intelligence,Company,META,Artificial Intelligence Company
+Artificial Intelligence,Company,AMD,Artificial Intelligence Company
+Artificial Intelligence,ETF,ARKQ,Artificial Intelligence ETF
+Artificial Intelligence,ETF,BOTZ,Artificial Intelligence ETF
+Artificial Intelligence,ETF,ROBO,Artificial Intelligence ETF
+Augmented Reality,Company,AAPL,Augmented Reality Company
+Augmented Reality,Company,MSFT,Augmented Reality Company
+Augmented Reality,Company,GOOGL,Augmented Reality Company
+Augmented Reality,Company,NVDA,Augmented Reality Company
+Augmented Reality,Company,VUZI,Augmented Reality Company
+Augmented Reality,Company,SNAP,Augmented Reality Company
+Augmented Reality,Company,QCOM,Augmented Reality Company
+Augmented Reality,ETF,METV,Augmented Reality ETF
+Augmented Reality,ETF,PUNK,Augmented Reality ETF
+Augmented Reality,ETF,VERS,Augmented Reality ETF
+Big Data Solutions,Company,MDB,Big Data Solutions Company
+Big Data Solutions,Company,SPLK,Big Data Solutions Company
+Biotechnology,Company,AMGN,Biotechnology Company
+Biotechnology,Company,GILD,Biotechnology Company
+Biotechnology,Company,BIIB,Biotechnology Company
+Biotechnology,Company,REGN,Biotechnology Company
+Biotechnology,Company,VRTX,Biotechnology Company
+Biotechnology,Company,MRNA,Biotechnology Company
+Biotechnology,Company,BNTX,Biotechnology Company
+Biotechnology,ETF,IBB,Biotechnology ETF
+Biotechnology,ETF,XBI,Biotechnology ETF
+Biotechnology,ETF,FBT,Biotechnology ETF
+Blockchain Technology,Company,IBM,Blockchain Technology Company
+Blockchain Technology,Company,SQ,Blockchain Technology Company
+Blockchain Technology,Company,RIOT,Blockchain Technology Company
+Blockchain Technology,Company,COIN,Blockchain Technology Company
+Blockchain Technology,Company,MARA,Blockchain Technology Company
+Blockchain Technology,Company,MSTR,Blockchain Technology Company
+Blockchain Technology,ETF,BLOK,Blockchain Technology ETF
+Blockchain Technology,ETF,BCHN,Blockchain Technology ETF
+Blockchain Technology,ETF,BLKC,Blockchain Technology ETF
+Cloud Computing,Company,AMZN,Cloud Computing Company
+Cloud Computing,Company,ORCL,Cloud Computing Company
+Cloud Computing,Company,NET,Cloud Computing Company
+Cloud Computing,Company,DDOG,Cloud Computing Company
+Cloud Computing,ETF,WCLD,Cloud Computing ETF
+Cloud Computing,ETF,SKYY,Cloud Computing ETF
+Cloud Computing,ETF,CLOU,Cloud Computing ETF
+Cybersecurity,Company,FTNT,Cybersecurity Company
+Cybersecurity,Company,CHKP,Cybersecurity Company
+Cybersecurity,Company,ZS,Cybersecurity Company
+Cybersecurity,Company,CRWD,Cybersecurity Company
+Cybersecurity,Company,OKTA,Cybersecurity Company
+Cybersecurity,ETF,HACK,Cybersecurity ETF
+Cybersecurity,ETF,CIBR,Cybersecurity ETF
+Cybersecurity,ETF,BUG,Cybersecurity ETF
+Data Analytics,Company,SAP,Data Analytics Company
+Data Analytics,Company,CRM,Data Analytics Company
+Data Analytics,Company,SNOW,Data Analytics Company
+Data Analytics,Company,PLTR,Data Analytics Company
+Data Analytics,ETF,XAIX,Data Analytics ETF
+Data Analytics,ETF,AIQ,Data Analytics ETF
+Data Analytics,ETF,WTAI,Data Analytics ETF
+Digital Health,Company,TEL,Digital Health Company
+Digital Health,Company,LVGO,Digital Health Company
+Digital Health,ETF,FDHT,Digital Health ETF
+Digital Health,ETF,HEAL,Digital Health ETF
+Edge Computing,Company,CSCO,Edge Computing Company
+Edge Computing,Company,DELL,Edge Computing Company
+Edge Computing,Company,HPE,Edge Computing Company
+Edge Computing,Company,FSLY,Edge Computing Company
+Edge Computing,ETF,ARKW,Edge Computing ETF
+Enterprise Software,Company,WDAY,Enterprise Software Company
+Genomics Research,Company,ILMN,Genomics Research Company
+Genomics Research,Company,TXG,Genomics Research Company
+Genomics Research,Company,CRSP,Genomics Research Company
+Genomics Research,Company,NTLA,Genomics Research Company
+Genomics Research,Company,BEAM,Genomics Research Company
+Genomics Research,Company,PACB,Genomics Research Company
+Genomics Research,Company,DNA,Genomics Research Company
+Genomics Research,ETF,ARKG,Genomics Research ETF
+Genomics Research,ETF,GNOM,Genomics Research ETF
+Genomics Research,ETF,IDNA,Genomics Research ETF
+Healthcare Software,Company,CERN,Healthcare Software Company
+Healthcare Software,Company,MELI,Healthcare Software Company
+Healthcare Software,Company,HUM,Healthcare Software Company
+Healthcare Software,Company,CNC,Healthcare Software Company
+Healthcare Software,Company,ANTM,Healthcare Software Company
+Healthcare Technology,Company,VEEV,Healthcare Technology Company
+IT Services,Company,ACN,IT Services Company
+IT Services,Company,INFY,IT Services Company
+IT Services,Company,CTSH,IT Services Company
+IT Services,Company,WIT,IT Services Company
+IT Services,Company,DXC,IT Services Company
+IT Services,Company,EPAM,IT Services Company
+IT Services,Company,GIB,IT Services Company
+IT Services,ETF,IYW,IT Services ETF
+IT Services,ETF,XLK,IT Services ETF
+Internet of Things,Company,INTC,Internet of Things Company
+Internet of Things,Company,TXN,Internet of Things Company
+Internet of Things,Company,GE,Internet of Things Company
+Internet of Things,ETF,SNSR,Internet of Things ETF
+Internet of Things,ETF,IOT,Internet of Things ETF
+Medical Diagnostics,Company,DHR,Medical Diagnostics Company
+Medical Diagnostics,Company,TMO,Medical Diagnostics Company
+Medical Diagnostics,Company,RMD,Medical Diagnostics Company
+Medical Diagnostics,Company,PKI,Medical Diagnostics Company
+Medical Diagnostics,Company,BDX,Medical Diagnostics Company
+Medical Imaging,Company,VAR,Medical Imaging Company
+Medical Robotics,Company,ISRG,Medical Robotics Company
+Medical Robotics,Company,ABT,Medical Robotics Company
+Medical Robotics,Company,SYK,Medical Robotics Company
+Medical Robotics,Company,ZBH,Medical Robotics Company
+Medical Robotics,Company,NVRO,Medical Robotics Company
+Medical Robotics,Company,STIM,Medical Robotics Company
+Medical Robotics,ETF,IRBO,Medical Robotics ETF
+Mental Health Technology,Company,NVCR,Mental Health Technology Company
+Mental Health Technology,Company,ICLR,Mental Health Technology Company
+Mental Health Technology,Company,EXAS,Mental Health Technology Company
+Mental Health Technology,Company,ABMD,Mental Health Technology Company
+Mental Health Technology,Company,ACAD,Mental Health Technology Company
+Mental Health Technology,Company,SAGE,Mental Health Technology Company
+Mobile Technology,Company,SSNLF,Mobile Technology Company
+Mobile Technology,ETF,FONE,Mobile Technology ETF
+Mobile Technology,ETF,MOBL,Mobile Technology ETF
+Mobile Technology,ETF,IXN,Mobile Technology ETF
+Network Infrastructure,Company,JNPR,Network Infrastructure Company
+Network Infrastructure,Company,ANET,Network Infrastructure Company
+Network Infrastructure,Company,FFIV,Network Infrastructure Company
+Network Infrastructure,Company,PANW,Network Infrastructure Company
+Network Infrastructure,ETF,IGN,Network Infrastructure ETF
+Network Infrastructure,ETF,PTF,Network Infrastructure ETF
+Personalized Medicine,Company,MDXG,Personalized Medicine Company
+Personalized Medicine,Company,NVTA,Personalized Medicine Company
+Personalized Medicine,Company,FLDM,Personalized Medicine Company
+Pharmaceutical Research,Company,JNJ,Pharmaceutical Research Company
+Pharmaceutical Research,Company,PFE,Pharmaceutical Research Company
+Pharmaceutical Research,Company,MRK,Pharmaceutical Research Company
+Pharmaceutical Research,Company,ABBV,Pharmaceutical Research Company
+Pharmaceutical Research,Company,LLY,Pharmaceutical Research Company
+Pharmaceutical Research,Company,NVS,Pharmaceutical Research Company
+Pharmaceutical Research,Company,AZN,Pharmaceutical Research Company
+Pharmaceutical Research,ETF,XPH,Pharmaceutical Research ETF
+Pharmaceutical Research,ETF,IHE,Pharmaceutical Research ETF
+Pharmaceutical Research,ETF,PJP,Pharmaceutical Research ETF
+Quantum Computing,Company,GOOG,Quantum Computing Company
+Quantum Computing,Company,IONQ,Quantum Computing Company
+Quantum Computing,Company,QUBT,Quantum Computing Company
+Quantum Computing,Company,RGTI,Quantum Computing Company
+Quantum Computing,Company,QTUM,Quantum Computing Company
+Quantum Computing,ETF,KOMP,Quantum Computing ETF
+Remote Patient Monitoring,Company,MDT,Remote Patient Monitoring Company
+Remote Patient Monitoring,Company,DXCM,Remote Patient Monitoring Company
+Remote Patient Monitoring,Company,TDOC,Remote Patient Monitoring Company
+Remote Patient Monitoring,Company,IRTC,Remote Patient Monitoring Company
+Remote Patient Monitoring,Company,MASI,Remote Patient Monitoring Company
+Remote Patient Monitoring,Company,PHG,Remote Patient Monitoring Company
+Remote Patient Monitoring,Company,HOLX,Remote Patient Monitoring Company
+Remote Patient Monitoring,ETF,IHI,Remote Patient Monitoring ETF
+Remote Patient Monitoring,ETF,XLV,Remote Patient Monitoring ETF
+Remote Patient Monitoring,ETF,VHT,Remote Patient Monitoring ETF
+Semiconductor Technology,Company,TSM,Semiconductor Technology Company
+Semiconductor Technology,Company,ASML,Semiconductor Technology Company
+Semiconductor Technology,Company,AMAT,Semiconductor Technology Company
+Semiconductor Technology,Company,LRCX,Semiconductor Technology Company
+Semiconductor Technology,ETF,SOXX,Semiconductor Technology ETF
+Semiconductor Technology,ETF,SMH,Semiconductor Technology ETF
+Semiconductor Technology,ETF,XSD,Semiconductor Technology ETF
+Software Development,Company,ADBE,Software Development Company
+Software Development,Company,INTU,Software Development Company
+Software Development,Company,NOW,Software Development Company
+Software Development,ETF,IGV,Software Development ETF
+Software Development,ETF,PSJ,Software Development ETF
+Software Development,ETF,VGT,Software Development ETF
+Virtual Reality,Company,SONY,Virtual Reality Company
+Virtual Reality,Company,U,Virtual Reality Company
+Virtual Reality,ETF,ARVR,Virtual Reality ETF

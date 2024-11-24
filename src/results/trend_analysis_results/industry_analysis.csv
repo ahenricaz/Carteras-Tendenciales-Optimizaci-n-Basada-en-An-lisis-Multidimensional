@@ -1,0 +1,1529 @@
+sector,industry,year,mean,std,count
+Aerospace,Aerospace Engineering,2010,0.24333995940606357,,1
+Aerospace,Aerospace Engineering,2011,0.18389985279373372,,1
+Aerospace,Aerospace Engineering,2012,0.2869112085393016,,1
+Aerospace,Aerospace Engineering,2013,0.3232269517015064,,1
+Aerospace,Aerospace Engineering,2015,0.1779448609662354,,1
+Aerospace,Aerospace Engineering,2016,0.13596259623504833,,1
+Aerospace,Aerospace Engineering,2017,0.3366539844981818,,1
+Aerospace,Aerospace Engineering,2020,0.2676291596414316,,1
+Aerospace,Aerospace Engineering,2022,0.2299543383987915,,1
+Aerospace,Aerospace Engineering,2024,0.07947230178390857,,1
+Aerospace,Aerospace Propulsion Systems,2010,0.12295717016534312,,1
+Aerospace,Aerospace Propulsion Systems,2013,0.12190289239261301,,1
+Aerospace,Aerospace Propulsion Systems,2014,0.12862506994848932,,1
+Aerospace,Aerospace Propulsion Systems,2015,0.12071081254251659,,1
+Aerospace,Aerospace Propulsion Systems,2016,0.11591272743138563,,1
+Aerospace,Aerospace Propulsion Systems,2017,0.13140478778181638,,1
+Aerospace,Aerospace Propulsion Systems,2019,0.13170405332849278,,1
+Aerospace,Aerospace Propulsion Systems,2023,0.09937625799000172,,1
+Aerospace,Aerospace Propulsion Systems,2024,0.11798658327213914,,1
+Aerospace,Aerospace Research and Development,2010,0.20681253480681333,,1
+Aerospace,Aerospace Research and Development,2011,0.19351675552521358,0.08797046907871887,2
+Aerospace,Aerospace Research and Development,2012,0.26634200110618667,0.01810461619574908,2
+Aerospace,Aerospace Research and Development,2013,0.14601758274063548,0.08018473746098348,2
+Aerospace,Aerospace Research and Development,2014,0.2594781439362744,0.009019114189354704,2
+Aerospace,Aerospace Research and Development,2015,0.2604135152023852,0.19235507477857183,2
+Aerospace,Aerospace Research and Development,2016,0.13749270265074665,0.024297987667846153,2
+Aerospace,Aerospace Research and Development,2017,0.2551291599819351,0.03865849723090598,2
+Aerospace,Aerospace Research and Development,2018,0.30081855217224596,0.033903225477521094,2
+Aerospace,Aerospace Research and Development,2019,0.3189563499326001,0.11480973505882432,2
+Aerospace,Aerospace Research and Development,2020,0.16767123818141308,0.014655130852996554,2
+Aerospace,Aerospace Research and Development,2021,0.27068950833301164,0.07326525469369657,2
+Aerospace,Aerospace Research and Development,2022,0.17021417316503593,0.04644971568245989,2
+Aerospace,Aerospace Research and Development,2023,0.3190007962293405,0.15843575778504215,2
+Aerospace,Aerospace Research and Development,2024,0.11113972847708746,0.0010832102048418156,2
+Aerospace,Aircraft Maintenance,2010,0.2043778722142849,,1
+Aerospace,Aircraft Maintenance,2012,0.2710393360639814,,1
+Aerospace,Aircraft Maintenance,2013,0.2539075090764453,,1
+Aerospace,Aircraft Maintenance,2014,0.24164595799090757,,1
+Aerospace,Aircraft Maintenance,2015,0.21666120032487904,,1
+Aerospace,Aircraft Maintenance,2016,0.28728697227648153,,1
+Aerospace,Aircraft Maintenance,2017,0.23679111258310598,,1
+Aerospace,Aircraft Maintenance,2018,0.45976719239304165,,1
+Aerospace,Aircraft Maintenance,2019,0.23873851666142032,,1
+Aerospace,Aircraft Maintenance,2020,0.31715727614916156,,1
+Aerospace,Aircraft Maintenance,2021,0.266106755793625,,1
+Aerospace,Aircraft Maintenance,2022,0.18073183690184466,,1
+Aerospace,Aircraft Maintenance,2023,0.1771244313644943,,1
+Aerospace,Aircraft Maintenance,2024,0.2190468156065223,,1
+Aerospace,Avionics Development,2010,0.11093516851496452,,1
+Aerospace,Avionics Development,2011,0.11406495040252747,,1
+Aerospace,Avionics Development,2013,0.11003649709207099,,1
+Aerospace,Avionics Development,2014,0.1132985509510912,,1
+Aerospace,Avionics Development,2015,0.11407691162605163,,1
+Aerospace,Avionics Development,2016,0.10947509568004211,,1
+Aerospace,Avionics Development,2017,0.11161539207393155,,1
+Aerospace,Avionics Development,2018,0.11026607591644245,,1
+Aerospace,Avionics Development,2019,0.11694117071603528,,1
+Aerospace,Avionics Development,2020,0.10632647395878325,,1
+Aerospace,Avionics Development,2021,0.11238144258667469,,1
+Aerospace,Avionics Development,2022,0.11125011906612724,,1
+Aerospace,Avionics Development,2023,0.10724552762778186,,1
+Aerospace,Avionics Development,2024,0.10970565332543604,,1
+Aerospace,Military Aviation,2010,0.12194724146697535,0.010206343458114223,2
+Aerospace,Military Aviation,2011,0.11471501273723478,,1
+Aerospace,Military Aviation,2012,0.1276153492695024,0.028646311490332713,2
+Aerospace,Military Aviation,2013,0.12017989122459902,0.008216372430039637,2
+Aerospace,Military Aviation,2014,0.12351072681181971,0.02227745374423748,2
+Aerospace,Military Aviation,2015,0.12594947909276416,0.021411385013382543,2
+Aerospace,Military Aviation,2016,0.12610291646094618,0.020177368852092113,2
+Aerospace,Military Aviation,2017,0.11233494391679508,,1
+Aerospace,Military Aviation,2018,0.13610434131763302,,1
+Aerospace,Military Aviation,2019,0.11747053781643704,,1
+Aerospace,Military Aviation,2020,0.11840911149407428,,1
+Aerospace,Military Aviation,2021,0.12676872763402702,,1
+Aerospace,Military Aviation,2022,0.11226727868592307,0.0021972587258986026,2
+Aerospace,Military Aviation,2023,0.10064916915490929,,1
+Aerospace,Military Aviation,2024,0.12385661171822235,,1
+Aerospace,Reusable Rockets,2010,0.11122019452753569,,1
+Aerospace,Reusable Rockets,2013,0.11522274716515542,,1
+Aerospace,Reusable Rockets,2015,0.11264691431978996,,1
+Aerospace,Reusable Rockets,2016,0.10947507902548878,,1
+Aerospace,Reusable Rockets,2017,0.1144685093568375,,1
+Aerospace,Reusable Rockets,2019,0.12199197895120312,,1
+Aerospace,Reusable Rockets,2020,0.11269460483805606,,1
+Aerospace,Reusable Rockets,2021,0.10918158656122363,,1
+Aerospace,Reusable Rockets,2022,0.11939036121462308,,1
+Aerospace,Reusable Rockets,2023,0.11034923563214555,,1
+Aerospace,Reusable Rockets,2024,0.10495906326210908,,1
+Aerospace,Satellite Communication,2011,0.10846367335523313,,1
+Aerospace,Satellite Communication,2012,0.107086615215901,,1
+Aerospace,Satellite Communication,2013,0.10916534100804197,,1
+Aerospace,Satellite Communication,2014,0.10906583403593524,,1
+Aerospace,Satellite Communication,2015,0.10662297048684531,,1
+Aerospace,Satellite Communication,2016,0.11493490523199218,,1
+Aerospace,Satellite Communication,2017,0.10902293396916236,,1
+Aerospace,Satellite Communication,2018,0.11541363414877064,,1
+Aerospace,Satellite Communication,2019,0.11026238939710026,,1
+Aerospace,Satellite Communication,2020,0.11659519740737656,,1
+Aerospace,Satellite Communication,2024,0.10056590326262786,,1
+Aerospace,Satellite Manufacturing,2010,0.1354070462044109,0.018379114290242946,2
+Aerospace,Satellite Manufacturing,2011,0.12734976956690464,0.01136747176280147,2
+Aerospace,Satellite Manufacturing,2012,0.1530090359516075,0.04651175312663427,2
+Aerospace,Satellite Manufacturing,2013,0.1221347028537334,0.023754113191801585,2
+Aerospace,Satellite Manufacturing,2014,0.1624199980953968,,1
+Aerospace,Satellite Manufacturing,2015,0.22549190127095733,,1
+Aerospace,Satellite Manufacturing,2017,0.17005385165471726,,1
+Aerospace,Satellite Manufacturing,2018,0.1721652852044948,,1
+Aerospace,Satellite Manufacturing,2019,0.24975162838552448,0.11899029382133931,2
+Aerospace,Satellite Manufacturing,2020,0.18222912418514264,,1
+Aerospace,Satellite Manufacturing,2021,0.14742101222649137,,1
+Aerospace,Satellite Manufacturing,2022,0.14323889369321444,,1
+Aerospace,Satellite Manufacturing,2023,0.0955863634329163,0.0491182463057216,2
+Aerospace,Satellite Manufacturing,2024,0.10975106170372227,,1
+Aerospace,Space Debris Management,2010,0.33774517751714267,,1
+Aerospace,Space Debris Management,2011,0.4041949939405259,,1
+Aerospace,Space Debris Management,2012,0.5420382880274648,,1
+Aerospace,Space Debris Management,2013,0.4993003944086527,,1
+Aerospace,Space Debris Management,2014,0.15790786644218976,,1
+Aerospace,Space Debris Management,2015,0.6702930279440127,,1
+Aerospace,Space Debris Management,2016,0.18652313904012707,,1
+Aerospace,Space Debris Management,2017,0.6837471217968891,,1
+Aerospace,Space Debris Management,2018,0.6261261362936676,,1
+Aerospace,Space Debris Management,2019,0.3974331286702859,,1
+Aerospace,Space Debris Management,2020,0.6283832071661375,,1
+Aerospace,Space Debris Management,2021,0.5259055242712344,,1
+Aerospace,Space Debris Management,2023,0.44104997926360345,,1
+Aerospace,Space Debris Management,2024,0.09432483471933231,,1
+Aerospace,Space Exploration,2011,0.2417860512543669,,1
+Aerospace,Space Exploration,2012,0.2638566682104178,,1
+Aerospace,Space Exploration,2013,0.24913220979714804,,1
+Aerospace,Space Exploration,2014,0.12848487356629518,,1
+Aerospace,Space Exploration,2015,0.3499052065877951,,1
+Aerospace,Space Exploration,2016,0.2517000867407994,,1
+Aerospace,Space Exploration,2017,0.3016318620295251,,1
+Aerospace,Space Exploration,2018,0.29482288194209555,,1
+Aerospace,Space Exploration,2019,0.32105912886901267,,1
+Aerospace,Space Exploration,2020,0.2860066744716024,,1
+Aerospace,Space Exploration,2021,0.17981498359148568,,1
+Aerospace,Space Exploration,2022,0.2406917971836273,,1
+Aerospace,Space Exploration,2023,0.20096020720902644,,1
+Aerospace,Unmanned Aerial Vehicles (UAVs),2010,0.1264879534159748,0.0076937489611861665,5
+Aerospace,Unmanned Aerial Vehicles (UAVs),2011,0.1279082897100107,0.007260485239748201,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2012,0.1405048972935595,0.013413810906345214,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2013,0.13705628225726535,0.0064085479109920965,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2014,0.12653804643319294,0.010918623333942265,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2015,0.13855556060812166,0.009957772360357692,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2016,0.16333442654440183,0.016698611310689455,5
+Aerospace,Unmanned Aerial Vehicles (UAVs),2017,0.1457851213482246,0.012659901761511447,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2018,0.15799034244951643,0.010869064672715017,5
+Aerospace,Unmanned Aerial Vehicles (UAVs),2019,0.15154679541456376,0.009371668796018667,4
+Aerospace,Unmanned Aerial Vehicles (UAVs),2020,0.15215828786144206,0.013403866396891733,5
+Aerospace,Unmanned Aerial Vehicles (UAVs),2021,0.1393923244127466,0.012053688737597285,5
+Aerospace,Unmanned Aerial Vehicles (UAVs),2022,0.13104571085663935,0.00678938752650827,5
+Aerospace,Unmanned Aerial Vehicles (UAVs),2023,0.11937339113059248,0.007398362910554363,6
+Aerospace,Unmanned Aerial Vehicles (UAVs),2024,0.11288346437609313,0.00424353626897094,5
+Computer and Technology,Artificial Neural Networks,2010,0.15356313575052985,0.026866760717993977,3
+Computer and Technology,Artificial Neural Networks,2011,0.14747238119181508,0.023620200399709895,3
+Computer and Technology,Artificial Neural Networks,2012,0.24367770181732462,0.1608118406708111,3
+Computer and Technology,Artificial Neural Networks,2013,0.12230549494715488,0.06814541049982314,3
+Computer and Technology,Artificial Neural Networks,2014,0.24871321438188235,0.18172036377261466,3
+Computer and Technology,Artificial Neural Networks,2015,0.21912731599126742,0.10907628587250888,3
+Computer and Technology,Artificial Neural Networks,2016,0.219578166735683,0.09050860730613428,3
+Computer and Technology,Artificial Neural Networks,2017,0.263806088122623,0.11810090309013324,2
+Computer and Technology,Artificial Neural Networks,2018,0.17954754924051794,0.05410861524026839,3
+Computer and Technology,Artificial Neural Networks,2019,0.24336615067460463,0.11334865521079605,2
+Computer and Technology,Artificial Neural Networks,2020,0.1696093126158509,0.029057223741251956,3
+Computer and Technology,Artificial Neural Networks,2021,0.15570973534986757,0.046553964674509056,3
+Computer and Technology,Artificial Neural Networks,2022,0.1843515106474268,0.017484440616126688,3
+Computer and Technology,Artificial Neural Networks,2023,0.2043682753013176,0.06045235408760329,3
+Computer and Technology,Artificial Neural Networks,2024,0.07836405050075232,0.025485234039983214,3
+Computer and Technology,Augmented Analytics,2010,0.3171919680385856,0.1683622526226607,2
+Computer and Technology,Augmented Analytics,2011,0.14828132811040287,,1
+Computer and Technology,Augmented Analytics,2012,0.3111041305919983,,1
+Computer and Technology,Augmented Analytics,2013,0.18071097124238963,,1
+Computer and Technology,Augmented Analytics,2014,0.3459751412923707,,1
+Computer and Technology,Augmented Analytics,2015,0.12062627999507435,,1
+Computer and Technology,Augmented Analytics,2016,0.25169260479559996,0.09578011734300143,2
+Computer and Technology,Augmented Analytics,2017,0.2760503117817726,0.04896010457940859,2
+Computer and Technology,Augmented Analytics,2018,0.19509286013705068,0.03205156374059562,2
+Computer and Technology,Augmented Analytics,2019,0.3598877074609769,,1
+Computer and Technology,Augmented Analytics,2020,0.3160260911211487,,1
+Computer and Technology,Augmented Analytics,2021,0.20746565766834282,,1
+Computer and Technology,Augmented Analytics,2022,0.24848837364589055,0.051031565968507005,2
+Computer and Technology,Augmented Analytics,2023,0.21821229665581032,0.04587118560443371,2
+Computer and Technology,Augmented Analytics,2024,0.12296897121800202,0.008227520232980118,2
+Computer and Technology,Cloud Computing,2010,0.3717926975648702,,1
+Computer and Technology,Cloud Computing,2011,0.2884761302583605,,1
+Computer and Technology,Cloud Computing,2012,0.32341124446075903,,1
+Computer and Technology,Cloud Computing,2013,0.2615139718198209,,1
+Computer and Technology,Cloud Computing,2014,0.36390708500153374,,1
+Computer and Technology,Cloud Computing,2015,0.3054947231097772,,1
+Computer and Technology,Cloud Computing,2016,0.31371650485275343,,1
+Computer and Technology,Cloud Computing,2017,0.4367794450480125,,1
+Computer and Technology,Cloud Computing,2018,0.2695715349800627,,1
+Computer and Technology,Cloud Computing,2019,0.4419033683852621,,1
+Computer and Technology,Cloud Computing,2020,0.26241780330486736,,1
+Computer and Technology,Cloud Computing,2021,0.3909252739000943,,1
+Computer and Technology,Cloud Computing,2022,0.21495732757694738,,1
+Computer and Technology,Cloud Computing,2023,0.21512269760338684,,1
+Computer and Technology,Cloud Computing,2024,0.14760904148137918,,1
+Computer and Technology,Cybersecurity,2010,0.122873217685447,,1
+Computer and Technology,Cybersecurity,2011,0.11389018155344204,,1
+Computer and Technology,Cybersecurity,2012,0.12303399438091375,,1
+Computer and Technology,Cybersecurity,2013,0.11817052454449732,,1
+Computer and Technology,Cybersecurity,2014,0.1344757874133354,,1
+Computer and Technology,Cybersecurity,2015,0.12669527962255725,,1
+Computer and Technology,Cybersecurity,2016,0.15558322798480295,,1
+Computer and Technology,Cybersecurity,2017,0.13075016974627918,,1
+Computer and Technology,Cybersecurity,2018,0.15104489917736388,,1
+Computer and Technology,Cybersecurity,2019,0.14316537873995822,,1
+Computer and Technology,Cybersecurity,2020,0.14882893987123524,,1
+Computer and Technology,Cybersecurity,2021,0.1342669182334999,,1
+Computer and Technology,Cybersecurity,2022,0.13333765801680697,,1
+Computer and Technology,Cybersecurity,2023,0.13695069962787165,,1
+Computer and Technology,Cybersecurity,2024,0.12293426696036583,,1
+Computer and Technology,Deep Learning,2010,0.26122583859178033,,1
+Computer and Technology,Deep Learning,2011,0.4113998234968678,,1
+Computer and Technology,Deep Learning,2013,0.003623219120426308,,1
+Computer and Technology,Deep Learning,2014,0.6725955977869826,,1
+Computer and Technology,Deep Learning,2015,1.0,,1
+Computer and Technology,Deep Learning,2016,0.08351100683461592,,1
+Computer and Technology,Deep Learning,2017,0.6115218568530004,,1
+Computer and Technology,Deep Learning,2019,0.44740901965223273,,1
+Computer and Technology,Deep Learning,2020,0.30657477627133584,,1
+Computer and Technology,Deep Learning,2021,0.47172075767321753,,1
+Computer and Technology,Deep Learning,2022,0.1371217557628005,,1
+Computer and Technology,Deep Learning,2023,0.3207225832411219,,1
+Computer and Technology,Deep Learning,2024,0.09986238589572717,,1
+Computer and Technology,Edge Computing,2010,0.12696637914158038,,1
+Computer and Technology,Edge Computing,2011,0.1333569802684628,,1
+Computer and Technology,Edge Computing,2012,0.11758919793402574,,1
+Computer and Technology,Edge Computing,2013,0.13405948850497842,,1
+Computer and Technology,Edge Computing,2014,0.14728421198108307,,1
+Computer and Technology,Edge Computing,2016,0.1946043778087832,,1
+Computer and Technology,Edge Computing,2020,0.26395741574358517,,1
+Computer and Technology,Edge Computing,2021,0.12136360611719171,,1
+Computer and Technology,Edge Computing,2022,0.15505880724332816,,1
+Computer and Technology,Edge Computing,2024,0.08759628038292383,,1
+Computer and Technology,High-Performance Computing,2010,0.48391552916730163,0.2481861833783284,3
+Computer and Technology,High-Performance Computing,2011,0.17714659794780294,0.11634162013401553,3
+Computer and Technology,High-Performance Computing,2012,0.41326371361077047,0.27396817818183195,3
+Computer and Technology,High-Performance Computing,2013,0.24385852968906097,0.08385198321986981,3
+Computer and Technology,High-Performance Computing,2014,0.39446885417406236,0.22488700482319518,3
+Computer and Technology,High-Performance Computing,2015,0.30541976785113384,0.1437340836267715,3
+Computer and Technology,High-Performance Computing,2016,0.3432587516337999,0.19456160199353437,3
+Computer and Technology,High-Performance Computing,2017,0.44200533943231207,0.2706863710890462,3
+Computer and Technology,High-Performance Computing,2018,0.4718172351194281,0.32477214167647817,3
+Computer and Technology,High-Performance Computing,2019,0.2359151268361209,0.08791741617329156,3
+Computer and Technology,High-Performance Computing,2020,0.39569483170824826,0.2572287734183565,3
+Computer and Technology,High-Performance Computing,2021,0.3707819684729574,0.31638135276382484,2
+Computer and Technology,High-Performance Computing,2022,0.22526160738578507,0.09778438785307694,3
+Computer and Technology,High-Performance Computing,2023,0.2784332440801381,0.1536808405969713,3
+Computer and Technology,High-Performance Computing,2024,0.12367445615928123,0.014253348373895067,2
+Computer and Technology,Internet of Things (IoT),2010,0.18411533542581016,0.02028032098069978,3
+Computer and Technology,Internet of Things (IoT),2011,0.19311578258623074,0.011172290773691994,3
+Computer and Technology,Internet of Things (IoT),2012,0.20487395344057155,0.020216250113693286,3
+Computer and Technology,Internet of Things (IoT),2013,0.23301311148003603,0.03706144187871064,3
+Computer and Technology,Internet of Things (IoT),2014,0.21922816999814915,0.024336352365329685,2
+Computer and Technology,Internet of Things (IoT),2015,0.2664758962123528,0.018825575163299843,2
+Computer and Technology,Internet of Things (IoT),2016,0.213584799259738,0.010959094542603479,2
+Computer and Technology,Internet of Things (IoT),2017,0.17574478104373986,0.00612537773959039,2
+Computer and Technology,Internet of Things (IoT),2018,0.3138279056681482,0.03935621464334905,3
+Computer and Technology,Internet of Things (IoT),2019,0.19124471043630878,0.027416944905348576,3
+Computer and Technology,Internet of Things (IoT),2020,0.2333675903080887,0.031863150254273755,2
+Computer and Technology,Internet of Things (IoT),2021,0.22036708211069547,0.018137650235827002,3
+Computer and Technology,Internet of Things (IoT),2022,0.19959501903191013,0.021574882571803785,3
+Computer and Technology,Internet of Things (IoT),2023,0.14179875274547168,0.016218408001022703,3
+Computer and Technology,Internet of Things (IoT),2024,0.1169862996536566,0.011276146520011758,3
+Computer and Technology,Machine Learning,2010,0.1751176048016065,,1
+Computer and Technology,Machine Learning,2012,0.23163495021351307,,1
+Computer and Technology,Machine Learning,2013,0.07141968882764127,,1
+Computer and Technology,Machine Learning,2014,0.34350089118974064,,1
+Computer and Technology,Machine Learning,2015,0.13415597514339503,,1
+Computer and Technology,Machine Learning,2017,0.22427708535643281,,1
+Computer and Technology,Machine Learning,2018,0.22021581722408706,,1
+Computer and Technology,Machine Learning,2019,0.20420243690008352,,1
+Computer and Technology,Machine Learning,2020,0.1658931984104781,,1
+Computer and Technology,Machine Learning,2021,0.15512002369607547,,1
+Computer and Technology,Machine Learning,2022,0.17963235486590687,,1
+Computer and Technology,Machine Learning,2023,0.1531330762968019,,1
+Computer and Technology,Machine Learning,2024,0.13004711066909244,,1
+Computer and Technology,Mobile App Development,2010,0.2059514476544227,,1
+Computer and Technology,Mobile App Development,2011,0.2188292840187729,,1
+Computer and Technology,Mobile App Development,2012,0.23378147047644748,,1
+Computer and Technology,Mobile App Development,2013,0.22386114816501684,,1
+Computer and Technology,Mobile App Development,2014,0.25540499383779713,,1
+Computer and Technology,Mobile App Development,2015,0.25211656947970373,,1
+Computer and Technology,Mobile App Development,2016,0.19515095699262658,,1
+Computer and Technology,Mobile App Development,2017,0.3499012010454967,,1
+Computer and Technology,Mobile App Development,2018,0.19834176551844668,,1
+Computer and Technology,Mobile App Development,2019,0.21300787208129554,,1
+Computer and Technology,Mobile App Development,2020,0.23653389947611356,,1
+Computer and Technology,Mobile App Development,2021,0.27074264910981233,,1
+Computer and Technology,Mobile App Development,2022,0.12887863676900588,,1
+Computer and Technology,Mobile App Development,2023,0.18639623364557448,,1
+Computer and Technology,Mobile App Development,2024,0.12616073603372144,,1
+Computer and Technology,Semiconductor Manufacturing,2010,0.23378110763847573,,1
+Computer and Technology,Semiconductor Manufacturing,2011,0.14656570858951679,,1
+Computer and Technology,Semiconductor Manufacturing,2012,0.2128611067243314,,1
+Computer and Technology,Semiconductor Manufacturing,2013,0.20066650768200345,,1
+Computer and Technology,Semiconductor Manufacturing,2014,0.25048842165384283,,1
+Computer and Technology,Semiconductor Manufacturing,2015,0.08762196054786073,,1
+Computer and Technology,Semiconductor Manufacturing,2016,0.24294380503829457,,1
+Computer and Technology,Semiconductor Manufacturing,2017,0.18258730600641843,,1
+Computer and Technology,Semiconductor Manufacturing,2018,0.2276605502850901,,1
+Computer and Technology,Semiconductor Manufacturing,2019,0.21260437300783178,,1
+Computer and Technology,Semiconductor Manufacturing,2020,0.1982081718901182,,1
+Computer and Technology,Semiconductor Manufacturing,2021,0.16705299687009662,,1
+Computer and Technology,Semiconductor Manufacturing,2022,0.17891357208845576,,1
+Computer and Technology,Semiconductor Manufacturing,2023,0.13809335848097506,,1
+Computer and Technology,Semiconductor Manufacturing,2024,0.1313578418796019,,1
+Computer and Technology,Virtual Reality,2010,0.30516657918383705,0.16587202752626587,2
+Computer and Technology,Virtual Reality,2011,0.1707997280129474,0.0189412333946543,2
+Computer and Technology,Virtual Reality,2012,0.22141578647746782,0.0419353601329781,2
+Computer and Technology,Virtual Reality,2013,0.212714619067786,0.03923557095129165,2
+Computer and Technology,Virtual Reality,2014,0.22241306047200565,0.042570353278692144,2
+Computer and Technology,Virtual Reality,2015,0.20783608289640704,0.03741661343223711,2
+Computer and Technology,Virtual Reality,2016,0.20463083843546598,0.04036663249310707,2
+Computer and Technology,Virtual Reality,2017,0.286969116166527,0.061719445955874,2
+Computer and Technology,Virtual Reality,2018,0.2610497086123843,0.05745544446219709,2
+Computer and Technology,Virtual Reality,2019,0.1934653049422447,0.032335776161079986,2
+Computer and Technology,Virtual Reality,2020,0.24761759204529182,0.0471025965735298,2
+Computer and Technology,Virtual Reality,2021,0.24709922144546625,0.055239243062682054,2
+Computer and Technology,Virtual Reality,2022,0.20013009781402719,0.03281977115829756,2
+Computer and Technology,Virtual Reality,2023,0.13227448468103295,0.01040074503480236,2
+Computer and Technology,Virtual Reality,2024,0.1330988664145208,0.01031715285160246,2
+Construction,3D Printing in Construction,2010,0.2281398238812818,,1
+Construction,3D Printing in Construction,2011,0.22133201629008487,,1
+Construction,3D Printing in Construction,2012,0.27041310224219006,,1
+Construction,3D Printing in Construction,2013,0.24968724417869162,,1
+Construction,3D Printing in Construction,2014,0.25210377635702447,,1
+Construction,3D Printing in Construction,2015,0.24463659080138425,,1
+Construction,3D Printing in Construction,2016,0.15940217771869175,,1
+Construction,3D Printing in Construction,2017,0.30049643760038547,,1
+Construction,3D Printing in Construction,2018,0.23819093990586965,,1
+Construction,3D Printing in Construction,2019,0.33167677848801635,,1
+Construction,3D Printing in Construction,2020,0.18805437649796344,,1
+Construction,3D Printing in Construction,2021,0.3099853732449602,,1
+Construction,3D Printing in Construction,2022,0.1670227488096232,,1
+Construction,3D Printing in Construction,2023,0.20154773484892988,,1
+Construction,3D Printing in Construction,2024,0.13043298870926215,,1
+Construction,Architectural Design,2010,0.2618135407575204,,1
+Construction,Architectural Design,2011,0.3224798761475265,,1
+Construction,Architectural Design,2012,0.19583361395965146,,1
+Construction,Architectural Design,2013,0.27531648804373415,,1
+Construction,Architectural Design,2014,0.3214852580314026,,1
+Construction,Architectural Design,2015,0.21288249243713353,,1
+Construction,Architectural Design,2016,0.14521240969315335,,1
+Construction,Architectural Design,2017,0.491484410874577,,1
+Construction,Architectural Design,2018,0.290546991293487,,1
+Construction,Architectural Design,2019,0.3156773160564124,,1
+Construction,Architectural Design,2020,0.3752186111108862,,1
+Construction,Architectural Design,2021,0.18614063404825165,,1
+Construction,Architectural Design,2022,0.44480447869260603,,1
+Construction,Architectural Design,2023,0.10905091327904473,,1
+Construction,Architectural Design,2024,0.21057403039126438,,1
+Construction,Construction Robotics,2010,0.22807000305026978,,1
+Construction,Construction Robotics,2011,0.21447294604266467,,1
+Construction,Construction Robotics,2012,0.17953258548789258,,1
+Construction,Construction Robotics,2013,0.3362656231940786,,1
+Construction,Construction Robotics,2014,0.10088600321623598,,1
+Construction,Construction Robotics,2015,0.31630442927319286,,1
+Construction,Construction Robotics,2016,0.13792774070707875,,1
+Construction,Construction Robotics,2017,0.3904779266439382,,1
+Construction,Construction Robotics,2018,0.1971487143310535,,1
+Construction,Construction Robotics,2019,0.3144437028899868,,1
+Construction,Construction Robotics,2020,0.23169443558775699,,1
+Construction,Construction Robotics,2021,0.2762301723443521,,1
+Construction,Construction Robotics,2022,0.16356889096463267,,1
+Construction,Construction Robotics,2023,0.21095749892152063,,1
+Construction,Construction Robotics,2024,0.11212545516804422,,1
+Construction,Construction Software and Analytics,2010,0.1484658197888769,0.07719448251511797,7
+Construction,Construction Software and Analytics,2011,0.16244945300691055,0.1048926213000723,7
+Construction,Construction Software and Analytics,2012,0.1698532774639047,0.14433318442104806,7
+Construction,Construction Software and Analytics,2013,0.16530505759070546,0.11152285216506765,6
+Construction,Construction Software and Analytics,2014,0.16035871253767117,0.1294098596216163,7
+Construction,Construction Software and Analytics,2015,0.1225131727327359,0.06377690909700917,7
+Construction,Construction Software and Analytics,2016,0.17551292882462113,0.1253943095424407,7
+Construction,Construction Software and Analytics,2017,0.1470589470554672,0.07679262158193027,6
+Construction,Construction Software and Analytics,2018,0.20702517575950982,0.1665601866284302,6
+Construction,Construction Software and Analytics,2019,0.162239498820072,0.09645380224357765,7
+Construction,Construction Software and Analytics,2020,0.17114488565200875,0.11695007504834014,7
+Construction,Construction Software and Analytics,2021,0.15143918403200454,0.07511144757622727,6
+Construction,Construction Software and Analytics,2022,0.14599297056501653,0.07860279290107716,6
+Construction,Construction Software and Analytics,2023,0.1735152136782843,0.11110773001774223,6
+Construction,Construction Software and Analytics,2024,0.09554086187572478,0.012481621978553641,7
+Construction,Eco-Friendly Construction Materials,2010,0.10601155633330858,,1
+Construction,Eco-Friendly Construction Materials,2011,0.10606887956103697,,1
+Construction,Eco-Friendly Construction Materials,2012,0.10602958631617095,,1
+Construction,Eco-Friendly Construction Materials,2014,0.10477911222851113,,1
+Construction,Eco-Friendly Construction Materials,2018,0.10763059528185491,,1
+Construction,Eco-Friendly Construction Materials,2019,0.1077544731578904,,1
+Construction,Eco-Friendly Construction Materials,2020,0.10777337484586196,,1
+Construction,Eco-Friendly Construction Materials,2021,0.10551076620612848,,1
+Construction,Eco-Friendly Construction Materials,2022,0.10663006933389084,,1
+Construction,Eco-Friendly Construction Materials,2023,0.10496999791521605,,1
+Construction,Eco-Friendly Construction Materials,2024,0.1023321595843379,,1
+Construction,Green Building,2010,0.1754397348171032,0.10356929361194267,2
+Construction,Green Building,2011,0.1460273628836802,0.061959935595847865,2
+Construction,Green Building,2012,0.17291876946915188,0.09970132258355217,2
+Construction,Green Building,2013,0.10222665509403257,,1
+Construction,Green Building,2014,0.10228570074317798,,1
+Construction,Green Building,2015,0.10192068537743931,,1
+Construction,Green Building,2016,0.10448445260301123,0.0029764409304956913,2
+Construction,Green Building,2017,0.10249817646163414,,1
+Construction,Green Building,2018,0.2136025119359039,0.15571984853744436,2
+Construction,Green Building,2019,0.1031384957182292,,1
+Construction,Green Building,2020,0.11660206591682086,0.019825176926025118,2
+Construction,Green Building,2021,0.17434038960035753,0.1013564468464475,2
+Construction,Green Building,2022,0.10342902604198857,,1
+Construction,Green Building,2023,0.10195223415035909,,1
+Construction,Green Building,2024,0.10284189644978799,,1
+Construction,Heavy Civil Construction,2010,0.10294382448461802,0.000540507118242322,3
+Construction,Heavy Civil Construction,2011,0.10284030176825847,0.0007724899319722329,3
+Construction,Heavy Civil Construction,2012,0.1035637110442662,0.001454822885891155,3
+Construction,Heavy Civil Construction,2013,0.10233393231321002,0.0011975783438668989,3
+Construction,Heavy Civil Construction,2014,0.1032431733310593,0.0015036768964230415,3
+Construction,Heavy Civil Construction,2015,0.10271088822999042,0.0006367352875999129,3
+Construction,Heavy Civil Construction,2016,0.10361884322163817,0.001185915932685212,3
+Construction,Heavy Civil Construction,2017,0.10280467791654528,0.0003852189408273435,3
+Construction,Heavy Civil Construction,2018,0.1051410701902778,0.001988411959311321,3
+Construction,Heavy Civil Construction,2019,0.10262814988166948,0.0017160222066036743,3
+Construction,Heavy Civil Construction,2020,0.10432532357022746,0.001698482141404952,3
+Construction,Heavy Civil Construction,2021,0.10334088596930759,0.0003126479397683219,3
+Construction,Heavy Civil Construction,2022,0.10322062819112783,0.0009134240331387497,3
+Construction,Heavy Civil Construction,2023,0.10409127267847558,0.0023073400395238934,3
+Construction,Heavy Civil Construction,2024,0.10147303826881364,0.0014954049864561829,3
+Construction,Prefabricated Homes,2010,0.10430222183067295,,1
+Construction,Prefabricated Homes,2011,0.10466967556452451,,1
+Construction,Prefabricated Homes,2012,0.10466601583542962,,1
+Construction,Prefabricated Homes,2013,0.10374901731513535,,1
+Construction,Prefabricated Homes,2014,0.10387449160225831,,1
+Construction,Prefabricated Homes,2015,0.10458814298696455,,1
+Construction,Prefabricated Homes,2016,0.10429081127665524,,1
+Construction,Prefabricated Homes,2017,0.10360188831395849,,1
+Construction,Prefabricated Homes,2018,0.10432108877391913,,1
+Construction,Prefabricated Homes,2019,0.10389967729556548,,1
+Construction,Prefabricated Homes,2020,0.1043534999151633,,1
+Construction,Prefabricated Homes,2021,0.10338262731238367,,1
+Construction,Prefabricated Homes,2022,0.10310296424484026,,1
+Construction,Prefabricated Homes,2023,0.10298312144192276,,1
+Construction,Prefabricated Homes,2024,0.10272744093724605,,1
+Construction,Renovation and Remodeling,2010,0.10207955375007358,,1
+Construction,Renovation and Remodeling,2011,0.10234894198099234,,1
+Construction,Renovation and Remodeling,2012,0.10204801453010548,,1
+Construction,Renovation and Remodeling,2013,0.10216366379889867,,1
+Construction,Renovation and Remodeling,2014,0.10235497122540994,,1
+Construction,Renovation and Remodeling,2015,0.1022064809064103,,1
+Construction,Renovation and Remodeling,2016,0.10217120221326564,,1
+Construction,Renovation and Remodeling,2017,0.10207923803491875,,1
+Construction,Renovation and Remodeling,2018,0.10326409304173244,,1
+Construction,Renovation and Remodeling,2019,0.10270822459593228,,1
+Construction,Renovation and Remodeling,2020,0.10246540899876638,,1
+Construction,Renovation and Remodeling,2021,0.10307866358475688,,1
+Construction,Renovation and Remodeling,2022,0.10222725809263682,,1
+Construction,Renovation and Remodeling,2023,0.10294059290581123,,1
+Construction,Renovation and Remodeling,2024,0.1016867186866501,,1
+Construction,Steel Structures,2010,0.10207396278135786,,1
+Construction,Steel Structures,2011,0.10214211447658228,,1
+Construction,Steel Structures,2012,0.10224043385801673,,1
+Construction,Steel Structures,2013,0.10204953988807118,,1
+Construction,Steel Structures,2014,0.10216514175910578,,1
+Construction,Steel Structures,2015,0.10198007499718353,,1
+Construction,Steel Structures,2016,0.10219600242538034,,1
+Construction,Steel Structures,2017,0.1021806560389139,,1
+Construction,Steel Structures,2018,0.10304326443452387,,1
+Construction,Steel Structures,2019,0.10237977211422676,,1
+Construction,Steel Structures,2020,0.10263415883147435,,1
+Construction,Steel Structures,2021,0.10229467713084488,,1
+Construction,Steel Structures,2022,0.10266310208373877,,1
+Construction,Steel Structures,2023,0.10214178498889179,,1
+Construction,Steel Structures,2024,0.102345825290389,,1
+Construction,Sustainable Construction,2011,0.1576118161479263,,1
+Construction,Sustainable Construction,2013,0.15600341507635312,,1
+Construction,Sustainable Construction,2014,0.13690569997467333,,1
+Construction,Sustainable Construction,2015,0.19938255008651856,,1
+Construction,Sustainable Construction,2016,0.14517337290438267,,1
+Construction,Sustainable Construction,2017,0.2038789842430974,,1
+Construction,Sustainable Construction,2018,0.20781982485282866,,1
+Construction,Sustainable Construction,2019,0.31176042061457626,,1
+Construction,Sustainable Construction,2020,0.17130917729155015,,1
+Construction,Sustainable Construction,2022,0.18665406215578345,,1
+Construction,Sustainable Construction,2023,0.20946604268478994,,1
+Energy,Biofuels,2010,0.2649296944223649,,1
+Energy,Biofuels,2011,0.05739963057188361,,1
+Energy,Biofuels,2012,0.185603979122543,,1
+Energy,Biofuels,2013,0.093193751573545,,1
+Energy,Biofuels,2015,0.16944596811360646,,1
+Energy,Biofuels,2016,0.10952826806374631,,1
+Energy,Biofuels,2017,0.11006444046281952,0.005099895012778799,2
+Energy,Biofuels,2018,0.15790076135277525,0.053409590498694634,2
+Energy,Biofuels,2019,0.15082461632204003,0.04719760723366307,2
+Energy,Biofuels,2020,0.1256870007844988,0.022634593070573875,2
+Energy,Biofuels,2021,0.10884717847198136,,1
+Energy,Biofuels,2022,0.11499430105406382,,1
+Energy,Biofuels,2023,0.10376335132954369,,1
+Energy,Biofuels,2024,0.1039336076860963,,1
+Energy,Distributed Energy Resources,2010,0.3178911683112115,0.2781952939391767,4
+Energy,Distributed Energy Resources,2011,0.12194635745882801,0.015383611642336065,4
+Energy,Distributed Energy Resources,2012,0.25379601111630856,0.1441653341536591,4
+Energy,Distributed Energy Resources,2013,0.22784474668871194,0.16425874527994822,4
+Energy,Distributed Energy Resources,2014,0.1628228434586458,0.049539126741749887,4
+Energy,Distributed Energy Resources,2015,0.21255387139796503,0.14194475297560702,4
+Energy,Distributed Energy Resources,2016,0.2075783174353051,0.09503750776999224,4
+Energy,Distributed Energy Resources,2017,0.1973481030048352,0.08639682537489322,4
+Energy,Distributed Energy Resources,2018,0.2732915634560137,0.16004269695114917,4
+Energy,Distributed Energy Resources,2019,0.15537950507470252,0.04132254812259812,4
+Energy,Distributed Energy Resources,2020,0.25263230761514316,0.14235012668298863,4
+Energy,Distributed Energy Resources,2021,0.14851104522766823,0.04135423473797303,4
+Energy,Distributed Energy Resources,2022,0.1750982453496046,0.06345956324962425,4
+Energy,Distributed Energy Resources,2023,0.15689413900214333,0.05138639667023539,4
+Energy,Distributed Energy Resources,2024,0.11508959587427717,0.019563693464222136,4
+Energy,Energy Efficiency,2010,0.2487221410157112,,1
+Energy,Energy Efficiency,2011,0.29921543931809913,,1
+Energy,Energy Efficiency,2012,0.23245428640721635,,1
+Energy,Energy Efficiency,2013,0.27817202748096787,,1
+Energy,Energy Efficiency,2014,0.2949216487306819,,1
+Energy,Energy Efficiency,2015,0.19317716797614648,,1
+Energy,Energy Efficiency,2016,0.3673740159776384,,1
+Energy,Energy Efficiency,2017,0.2481077631096249,,1
+Energy,Energy Efficiency,2018,0.2498975512019478,,1
+Energy,Energy Efficiency,2019,0.38223750422645414,,1
+Energy,Energy Efficiency,2020,0.16226403831684358,,1
+Energy,Energy Efficiency,2021,0.24799468454173568,,1
+Energy,Energy Efficiency,2022,0.2330698654547328,,1
+Energy,Energy Efficiency,2023,0.30269826664544747,,1
+Energy,Energy Efficiency,2024,0.09377749125546574,,1
+Energy,Energy Trading,2010,0.16812542000303196,,1
+Energy,Energy Trading,2011,0.1916936398923276,,1
+Energy,Energy Trading,2012,0.09396293864815676,,1
+Energy,Energy Trading,2013,0.23284917706932046,,1
+Energy,Energy Trading,2014,0.16125511447238,,1
+Energy,Energy Trading,2015,0.14620478002384393,,1
+Energy,Energy Trading,2016,0.18678305757020122,,1
+Energy,Energy Trading,2017,0.2892574920747592,,1
+Energy,Energy Trading,2018,0.2736236106856581,,1
+Energy,Energy Trading,2019,0.20463871457429506,,1
+Energy,Energy Trading,2020,0.26298302061803297,,1
+Energy,Energy Trading,2021,0.19392531152374093,,1
+Energy,Energy Trading,2022,0.13062873905962993,,1
+Energy,Energy Trading,2023,0.19102383524935496,,1
+Energy,Energy Trading,2024,0.14787442912383267,,1
+Energy,Fuel Cell Technology,2010,0.4203023467202348,0.3515413912124242,2
+Energy,Fuel Cell Technology,2011,0.14856997224008409,,1
+Energy,Fuel Cell Technology,2012,0.12716585687369708,0.06633047430203001,2
+Energy,Fuel Cell Technology,2013,0.18759930643593659,0.08086517172555793,2
+Energy,Fuel Cell Technology,2014,0.20234983037087212,0.0781564187776313,2
+Energy,Fuel Cell Technology,2015,0.31489856197835864,0.16762179272709726,2
+Energy,Fuel Cell Technology,2016,0.27609846636661795,0.1362039587016951,2
+Energy,Fuel Cell Technology,2017,0.11316985112541243,0.009571557271636473,2
+Energy,Fuel Cell Technology,2018,0.35007777868953766,0.1950607404113944,2
+Energy,Fuel Cell Technology,2019,0.07004513538793093,0.02516533434557824,2
+Energy,Fuel Cell Technology,2020,0.23848530088440445,0.10745895815836294,2
+Energy,Fuel Cell Technology,2021,0.13865069200085597,0.028852619740497385,2
+Energy,Fuel Cell Technology,2022,0.24771332367154636,0.114723900653722,2
+Energy,Fuel Cell Technology,2023,0.10420445773544044,0.001251802750905651,2
+Energy,Fuel Cell Technology,2024,0.19606989066844094,0.07675358021204085,2
+Energy,Geothermal Energy,2010,0.11991550851663087,,1
+Energy,Geothermal Energy,2011,0.12709729291695876,,1
+Energy,Geothermal Energy,2012,0.1450867455483483,,1
+Energy,Geothermal Energy,2013,0.11276294538698996,,1
+Energy,Geothermal Energy,2014,0.10348823339546707,,1
+Energy,Geothermal Energy,2015,0.11781542510368229,,1
+Energy,Geothermal Energy,2016,0.1524134742159566,,1
+Energy,Geothermal Energy,2017,0.08776415385016541,,1
+Energy,Geothermal Energy,2018,0.19412556215496207,,1
+Energy,Geothermal Energy,2019,0.11204586090462067,,1
+Energy,Geothermal Energy,2020,0.1309178041698884,,1
+Energy,Geothermal Energy,2021,0.2133148295700929,,1
+Energy,Geothermal Energy,2022,0.061986273849860864,,1
+Energy,Geothermal Energy,2023,0.13394946053416948,,1
+Energy,Geothermal Energy,2024,0.1784303131748699,,1
+Energy,Hydrogen Fuel Cells,2010,0.2118872486241634,0.08963484161319277,3
+Energy,Hydrogen Fuel Cells,2011,0.11360463352649763,0.034196008362735904,4
+Energy,Hydrogen Fuel Cells,2012,0.1626543346741899,0.039356609184996734,4
+Energy,Hydrogen Fuel Cells,2013,0.1544209271155826,0.016399553449260237,3
+Energy,Hydrogen Fuel Cells,2014,0.12906121761414627,0.003080160274943413,3
+Energy,Hydrogen Fuel Cells,2015,0.18076083513737606,0.050673883619780445,4
+Energy,Hydrogen Fuel Cells,2016,0.12031991864480006,0.006101156321580219,3
+Energy,Hydrogen Fuel Cells,2017,0.14104119935361045,0.022644223903937784,4
+Energy,Hydrogen Fuel Cells,2018,0.15924497479113542,0.03364732995338548,4
+Energy,Hydrogen Fuel Cells,2019,0.25692679399184215,0.1255365492125137,4
+Energy,Hydrogen Fuel Cells,2020,0.12124496842960682,0.019163545883359813,4
+Energy,Hydrogen Fuel Cells,2021,0.14591421614073474,0.03642045834030232,4
+Energy,Hydrogen Fuel Cells,2022,0.1622259599928444,0.04475852925267772,4
+Energy,Hydrogen Fuel Cells,2023,0.1499134902927822,0.03145274981527138,4
+Energy,Hydrogen Fuel Cells,2024,0.10029841140108858,0.015212832764390635,4
+Energy,Hydropower,2010,0.12238517375881557,,1
+Energy,Hydropower,2011,0.12993459323590684,,1
+Energy,Hydropower,2012,0.094365021565356,,1
+Energy,Hydropower,2013,0.13263580009307505,,1
+Energy,Hydropower,2014,0.11467836136609379,,1
+Energy,Hydropower,2015,0.12468993424845429,,1
+Energy,Hydropower,2016,0.14197507600413026,,1
+Energy,Hydropower,2017,0.1203166944973497,,1
+Energy,Hydropower,2018,0.256915976994316,,1
+Energy,Hydropower,2019,0.12767402075643675,,1
+Energy,Hydropower,2020,0.14154100943267728,,1
+Energy,Hydropower,2022,0.18302288386397064,,1
+Energy,Hydropower,2023,0.09371815639825,,1
+Energy,Hydropower,2024,0.1424290167339233,,1
+Energy,Offshore Wind Farms,2010,0.1202260759192224,,1
+Energy,Offshore Wind Farms,2011,0.11621574261684059,,1
+Energy,Offshore Wind Farms,2012,0.12596917063262753,,1
+Energy,Offshore Wind Farms,2024,0.10707601922178428,,1
+Energy,Petrochemicals,2010,0.17034087705305717,,1
+Energy,Petrochemicals,2011,0.10975995379737698,,1
+Energy,Petrochemicals,2012,0.1664001829429333,,1
+Energy,Petrochemicals,2013,0.13628435884317366,,1
+Energy,Petrochemicals,2014,0.09489393824267221,,1
+Energy,Petrochemicals,2015,0.15715299449126177,,1
+Energy,Petrochemicals,2016,0.09063737273430944,,1
+Energy,Petrochemicals,2017,0.12542119680413127,,1
+Energy,Petrochemicals,2018,0.16986756904259454,,1
+Energy,Petrochemicals,2019,0.17109981819993295,,1
+Energy,Petrochemicals,2020,0.18258314510017734,,1
+Energy,Petrochemicals,2021,0.13059551105861622,,1
+Energy,Petrochemicals,2022,0.17208460402149234,,1
+Energy,Petrochemicals,2023,0.11677823437672646,,1
+Energy,Petrochemicals,2024,0.1366949111178805,,1
+Energy,Thermal Power,2010,0.1766208448221267,,1
+Energy,Thermal Power,2011,0.2550328522933607,,1
+Energy,Thermal Power,2012,0.11883338710466826,,1
+Energy,Thermal Power,2013,0.1659237721709226,,1
+Energy,Thermal Power,2014,0.30239947328566213,,1
+Energy,Thermal Power,2015,0.12748040979978506,,1
+Energy,Thermal Power,2016,0.15539280265295943,,1
+Energy,Thermal Power,2017,0.2812221791651654,,1
+Energy,Thermal Power,2019,0.39062532535806294,,1
+Energy,Thermal Power,2020,0.0011854935084687271,,1
+Energy,Thermal Power,2021,0.3148417734087924,,1
+Energy,Thermal Power,2022,0.23011692084843674,,1
+Energy,Thermal Power,2023,0.2269896788488074,,1
+Energy,Thermal Power,2024,0.046611381383757325,,1
+Finance,Banking Software,2010,0.18083404083076673,,1
+Finance,Banking Software,2011,0.13006374267914195,0.006448407598599149,2
+Finance,Banking Software,2012,0.11962707967955849,0.0021661450411522075,2
+Finance,Banking Software,2013,0.1064559110265372,0.0010488732858105591,2
+Finance,Banking Software,2014,0.1769458716469141,0.017663516339224247,2
+Finance,Banking Software,2015,0.10545084850096546,0.0008119777766944626,2
+Finance,Banking Software,2016,0.1350915236167716,0.007798351901139096,2
+Finance,Banking Software,2017,0.16200809362888943,0.014142648295089414,2
+Finance,Banking Software,2018,0.26411577393248786,0.038209659346390215,2
+Finance,Banking Software,2019,0.26001182416737967,0.036989351444599396,2
+Finance,Banking Software,2020,0.13542532919185385,0.0081047285287633,2
+Finance,Banking Software,2021,0.19655733123475574,0.02157966458978891,2
+Finance,Banking Software,2022,0.18755880940568656,0.020729708682642463,2
+Finance,Banking Software,2023,0.1289380495775083,0.005014379529278111,2
+Finance,Banking Software,2024,0.1572447961847069,0.01354901657483115,2
+Finance,Blockchain Finance,2010,0.09665094684975382,,1
+Finance,Blockchain Finance,2013,0.1125167354766082,0.013664123667426108,2
+Finance,Blockchain Finance,2014,0.12843258250719905,0.030933187930793297,2
+Finance,Blockchain Finance,2015,0.1915874120503168,0.09986258458256896,2
+Finance,Blockchain Finance,2016,0.19640497467527296,0.10624449727881478,2
+Finance,Blockchain Finance,2017,0.25800212548583695,0.17298928037493772,2
+Finance,Blockchain Finance,2018,0.23822170108390645,0.15215243324036667,2
+Finance,Blockchain Finance,2019,0.2281749090012991,0.14064915629627756,2
+Finance,Blockchain Finance,2020,0.1453986988260283,0.04833813523604943,2
+Finance,Blockchain Finance,2021,0.2534315639711875,0.1687710034448291,2
+Finance,Blockchain Finance,2022,0.18986694543737972,0.0979925030732076,2
+Finance,Blockchain Finance,2023,0.1343545210488869,0.03604176629305876,2
+Finance,Blockchain Finance,2024,0.13677648737857653,0.0390971780431362,2
+Finance,Cryptocurrency,2010,0.09348154315239188,0.012055287295970796,2
+Finance,Cryptocurrency,2013,0.12302542218040163,0.019629620970774593,2
+Finance,Cryptocurrency,2014,0.13864188478049885,0.02072443212636014,2
+Finance,Cryptocurrency,2015,0.17348823166653524,0.040436502672516174,2
+Finance,Cryptocurrency,2016,0.15373024461168872,0.02925969736925377,2
+Finance,Cryptocurrency,2017,0.04132389801082291,,1
+Finance,Cryptocurrency,2018,0.2767996825481082,0.15199032459862144,2
+Finance,Cryptocurrency,2019,0.14165347850790178,0.0062548131796063885,2
+Finance,Cryptocurrency,2020,0.15439996889861574,0.029588280095427574,2
+Finance,Cryptocurrency,2021,0.1527367541456977,0.02879887051520974,2
+Finance,Cryptocurrency,2022,0.1746727394084289,,1
+Finance,Cryptocurrency,2023,0.1166069571406044,0.011073823350058997,2
+Finance,Cryptocurrency,2024,0.1228692024193005,0.009256570995883326,2
+Finance,Digital Payments,2010,0.15883652310501467,,1
+Finance,Digital Payments,2011,0.17892649132519828,,1
+Finance,Digital Payments,2012,0.19900637647855485,,1
+Finance,Digital Payments,2013,0.11321777731708245,,1
+Finance,Digital Payments,2014,0.2127496377975615,,1
+Finance,Digital Payments,2015,0.16977732871933693,,1
+Finance,Digital Payments,2016,0.21238858670377903,,1
+Finance,Digital Payments,2017,0.18543158162657963,,1
+Finance,Digital Payments,2018,0.1648597689188914,,1
+Finance,Digital Payments,2019,0.24082557441888144,,1
+Finance,Digital Payments,2020,0.13469152518911728,,1
+Finance,Digital Payments,2021,0.15769475081771323,,1
+Finance,Digital Payments,2022,0.17889418362275913,,1
+Finance,Digital Payments,2023,0.11839111619463201,,1
+Finance,Digital Payments,2024,0.1446109523564235,,1
+Finance,Financial Fraud Prevention,2010,0.1317955871487976,0.08807633787390731,2
+Finance,Financial Fraud Prevention,2011,0.18800732137273818,0.0190026815140491,2
+Finance,Financial Fraud Prevention,2012,0.23788089633883808,0.06405207879273467,2
+Finance,Financial Fraud Prevention,2013,0.11832984522614504,0.014395688248366498,2
+Finance,Financial Fraud Prevention,2014,0.16618500578729456,0.024223847990670535,2
+Finance,Financial Fraud Prevention,2015,0.13885149929637094,0.019379327960348133,2
+Finance,Financial Fraud Prevention,2016,0.2525040774470778,,1
+Finance,Financial Fraud Prevention,2017,0.23018063914598377,0.16119718885784984,2
+Finance,Financial Fraud Prevention,2018,0.3574539534224597,0.08865125711624948,2
+Finance,Financial Fraud Prevention,2019,0.3084039836305903,0.0972969809622072,2
+Finance,Financial Fraud Prevention,2020,0.12681366131050745,0.01770635372715196,2
+Finance,Financial Fraud Prevention,2021,0.19316036944320872,0.037559935767298915,2
+Finance,Financial Fraud Prevention,2022,0.3126907315557473,0.10112133480517752,2
+Finance,Financial Fraud Prevention,2023,0.27145415544408225,0.07987866491263547,2
+Finance,Financial Fraud Prevention,2024,0.10244265688488234,0.0002146725848428642,2
+Finance,Financial Risk Management,2017,0.16625576113610907,,1
+Finance,Financial Risk Management,2018,0.14538374727869652,,1
+Finance,Financial Risk Management,2019,0.17941874943332195,,1
+Finance,Financial Risk Management,2021,0.15216045362928998,,1
+Finance,Financial Risk Management,2023,0.13425767117694004,,1
+Finance,Fintech,2015,0.10239896494827576,,1
+Finance,Fintech,2016,0.10753867865476087,,1
+Finance,Fintech,2020,0.13334753564036728,,1
+Finance,Fintech,2024,0.09104137510618691,,1
+Finance,Green Finance,2010,0.1190014061979235,,1
+Finance,Green Finance,2011,0.12098359481552025,,1
+Finance,Green Finance,2012,0.08492796706020962,,1
+Finance,Green Finance,2013,0.13914354298624756,,1
+Finance,Green Finance,2014,0.11178541647469901,,1
+Finance,Green Finance,2015,0.11935813763175845,,1
+Finance,Green Finance,2016,0.13865706793677027,,1
+Finance,Green Finance,2017,0.11996574244568588,,1
+Finance,Green Finance,2018,0.2006118768735687,,1
+Finance,Green Finance,2019,0.14146279371066714,,1
+Finance,Green Finance,2020,0.16797997154752387,,1
+Finance,Green Finance,2021,0.16236296981253157,,1
+Finance,Green Finance,2022,0.10614069286862791,,1
+Finance,Green Finance,2023,0.13106048796861725,,1
+Finance,Green Finance,2024,0.16109208530253488,,1
+Finance,Insurance,2010,0.1281431317742286,,1
+Finance,Insurance,2011,0.11210641010269651,,1
+Finance,Insurance,2012,0.14778779925830549,,1
+Finance,Insurance,2013,0.1065175299280319,,1
+Finance,Insurance,2014,0.1340262393565361,,1
+Finance,Insurance,2016,0.12858072297019735,,1
+Finance,Insurance,2017,0.1408670082416103,,1
+Finance,Insurance,2018,0.12716981719147114,,1
+Finance,Insurance,2019,0.12910884092687266,,1
+Finance,Insurance,2020,0.13295328828533168,,1
+Finance,Insurance,2021,0.11352076522582864,,1
+Finance,Insurance,2022,0.12266465565968779,,1
+Finance,Insurance,2023,0.10307865421906036,,1
+Finance,Insurance,2024,0.11883912434420836,,1
+Finance,Payment Solutions,2010,0.22271461712038862,0.11580869458294846,2
+Finance,Payment Solutions,2011,0.15934862303858252,0.013169706963888795,2
+Finance,Payment Solutions,2012,0.18760776906487467,,1
+Finance,Payment Solutions,2013,0.168397921494701,0.044455973727033624,2
+Finance,Payment Solutions,2014,0.1936768432033943,,1
+Finance,Payment Solutions,2015,0.17790689615441657,0.04435030143476883,2
+Finance,Payment Solutions,2016,0.15956968447586226,,1
+Finance,Payment Solutions,2017,0.22402998751698133,0.08335218757936237,2
+Finance,Payment Solutions,2018,0.14494751725795008,0.020350829431401186,2
+Finance,Payment Solutions,2019,0.21704255952227303,0.06453649540318311,2
+Finance,Payment Solutions,2020,0.14162914009164412,0.02253364796223401,2
+Finance,Payment Solutions,2021,0.17735043518862748,0.04300416749104443,2
+Finance,Payment Solutions,2022,0.14235224981063566,0.022620671376521472,2
+Finance,Payment Solutions,2023,0.12490384632863755,0.013499482112671725,2
+Finance,Payment Solutions,2024,0.13600634987055818,0.020251523607822623,2
+Finance,Pension Funds,2010,0.10874329163856936,,1
+Finance,Pension Funds,2012,0.11098784244155545,,1
+Finance,Pension Funds,2013,0.10708313989066445,,1
+Finance,Pension Funds,2014,0.11122003822475861,,1
+Finance,Pension Funds,2015,0.10361945420888374,,1
+Finance,Pension Funds,2016,0.11799488892113989,,1
+Finance,Pension Funds,2017,0.1057424444337416,,1
+Finance,Pension Funds,2018,0.12311191822723126,,1
+Finance,Pension Funds,2019,0.12041573372308623,,1
+Finance,Pension Funds,2020,0.10634279270221797,,1
+Finance,Pension Funds,2021,0.1115856554483206,,1
+Finance,Pension Funds,2022,0.11047721257489015,,1
+Finance,Pension Funds,2023,0.10947384259991755,,1
+Finance,Pension Funds,2024,0.10239073154622697,,1
+Finance,Real Estate Investment,2010,0.11962841621185916,0.026380331491847493,2
+Finance,Real Estate Investment,2011,0.14026363848406792,0.01402083763467674,2
+Finance,Real Estate Investment,2012,0.17262032810253863,0.007681835053096481,2
+Finance,Real Estate Investment,2013,0.09961911556277393,0.0002596499348585805,2
+Finance,Real Estate Investment,2014,0.17358417734454246,0.007786688027721486,2
+Finance,Real Estate Investment,2015,0.15372123035303753,0.0012425865608137422,2
+Finance,Real Estate Investment,2016,0.07469798994906512,0.0009742569273440788,2
+Finance,Real Estate Investment,2017,0.17147970969181564,0.0062427628192771355,2
+Finance,Real Estate Investment,2018,0.28725066442108527,0.024380381163452758,2
+Finance,Real Estate Investment,2019,0.1649437552484501,0.007342483737851911,2
+Finance,Real Estate Investment,2020,0.15520657979011415,0.003182464287782208,2
+Finance,Real Estate Investment,2021,0.1496739716057777,0.0017431033758825774,2
+Finance,Real Estate Investment,2022,0.20394924235931639,0.01535076897098138,2
+Finance,Real Estate Investment,2023,0.15565207898051658,,1
+Finance,Real Estate Investment,2024,0.14694219980838666,,1
+Finance,Regulatory Compliance,2010,0.3785446053717236,0.325758018719394,2
+Finance,Regulatory Compliance,2011,0.1286592821404606,0.015031570544015948,2
+Finance,Regulatory Compliance,2012,0.2313028816577718,0.11825676708534176,2
+Finance,Regulatory Compliance,2013,0.16446465686406286,0.05490556909824078,2
+Finance,Regulatory Compliance,2014,0.19976981549548695,0.09131156968507848,2
+Finance,Regulatory Compliance,2015,0.21680030155955254,0.10446354714758961,2
+Finance,Regulatory Compliance,2016,0.1729847458926853,0.06495126017564411,2
+Finance,Regulatory Compliance,2017,0.18307729868619116,0.07418674696593625,2
+Finance,Regulatory Compliance,2018,0.2306986813149684,0.11776409148936734,2
+Finance,Regulatory Compliance,2019,0.2161026097746008,0.10440752762893712,2
+Finance,Regulatory Compliance,2020,0.17114209855353413,0.06326509162066286,2
+Finance,Regulatory Compliance,2021,0.18786493838241983,0.07856781725368843,2
+Finance,Regulatory Compliance,2022,0.1328622459150109,0.028035257000103047,2
+Finance,Regulatory Compliance,2023,0.22271440369620094,,1
+Finance,Regulatory Compliance,2024,0.14538707748596108,,1
+Medical,Biotechnology,2010,0.1811624303673682,,1
+Medical,Biotechnology,2011,0.13874380922059348,,1
+Medical,Biotechnology,2012,0.20215701733266297,,1
+Medical,Biotechnology,2013,0.16133574542251403,,1
+Medical,Biotechnology,2014,0.22849230569529058,,1
+Medical,Biotechnology,2015,0.17904245741781927,,1
+Medical,Biotechnology,2016,0.16627445248234668,,1
+Medical,Biotechnology,2017,0.2009922241333221,,1
+Medical,Biotechnology,2018,0.20811708136303256,,1
+Medical,Biotechnology,2019,0.16594247415286237,,1
+Medical,Biotechnology,2020,0.23339145096140418,,1
+Medical,Biotechnology,2021,0.18215781629938282,,1
+Medical,Biotechnology,2022,0.13680192441301994,,1
+Medical,Biotechnology,2023,0.16727230584134786,,1
+Medical,Biotechnology,2024,0.13111663950542865,,1
+Medical,Diagnostics,2010,0.11890708614292975,,1
+Medical,Diagnostics,2011,0.1222925604079697,,1
+Medical,Diagnostics,2012,0.11869447595778254,,1
+Medical,Diagnostics,2013,0.12762880716179684,,1
+Medical,Diagnostics,2014,0.11871114161232632,,1
+Medical,Diagnostics,2015,0.12606357245167607,,1
+Medical,Diagnostics,2016,0.12454659748824252,,1
+Medical,Diagnostics,2017,0.12084896928271927,,1
+Medical,Diagnostics,2018,0.1345174903513842,,1
+Medical,Diagnostics,2019,0.11514508477387554,,1
+Medical,Diagnostics,2020,0.132273521802431,,1
+Medical,Diagnostics,2021,0.10981246632096002,,1
+Medical,Diagnostics,2022,0.12101579110319605,,1
+Medical,Diagnostics,2023,0.10802072704945234,,1
+Medical,Diagnostics,2024,0.11171064321614303,,1
+Medical,Genomics,2010,0.40230186191845246,0.31318986184265124,2
+Medical,Genomics,2011,0.12162678666527671,0.04933171327388339,2
+Medical,Genomics,2012,0.3258653850843088,0.1505076674684399,2
+Medical,Genomics,2013,0.22572781790050722,0.08371445573752269,2
+Medical,Genomics,2014,0.17869591534992824,0.051081920674819425,2
+Medical,Genomics,2015,0.23196675797192257,0.08704278811567744,2
+Medical,Genomics,2016,0.2845627558604634,0.12274323175481168,2
+Medical,Genomics,2017,0.18133471122236783,0.05358281874284433,2
+Medical,Genomics,2018,0.18193481226936042,0.05360677638285201,2
+Medical,Genomics,2019,0.25770844615256927,0.10637869972856555,2
+Medical,Genomics,2020,0.15386234935611867,0.03333913597016794,2
+Medical,Genomics,2021,0.2844339195242905,0.12303485865261671,2
+Medical,Genomics,2022,0.06614088841287011,0.024767436758716024,2
+Medical,Genomics,2023,0.2964623351683638,,1
+Medical,Genomics,2024,0.09450257408589928,,1
+Medical,Healthcare Apps,2010,0.6514909945728026,,1
+Medical,Healthcare Apps,2011,0.41048895568930693,,1
+Medical,Healthcare Apps,2012,0.531743378020183,,1
+Medical,Healthcare Apps,2013,0.5786181104012809,,1
+Medical,Healthcare Apps,2014,0.30533024580151,,1
+Medical,Healthcare Apps,2015,0.6253961761430747,,1
+Medical,Healthcare Apps,2016,0.4857721337936243,,1
+Medical,Healthcare Apps,2017,0.4787942239251234,,1
+Medical,Healthcare Apps,2018,0.5700249883089636,,1
+Medical,Healthcare Apps,2019,0.47051571500223976,,1
+Medical,Healthcare Apps,2020,0.4362221309354826,,1
+Medical,Healthcare Apps,2021,0.7297912461749608,,1
+Medical,Healthcare Apps,2022,0.23310958382426755,,1
+Medical,Healthcare Apps,2023,0.38861542917618164,,1
+Medical,Healthcare Apps,2024,0.1108614125973064,,1
+Medical,Medical Data Platforms,2010,0.328546888440898,0.30058124672204606,2
+Medical,Medical Data Platforms,2011,0.11289665094951147,,1
+Medical,Medical Data Platforms,2012,0.11249968620419137,,1
+Medical,Medical Data Platforms,2013,0.25150324715364497,0.1958057629237205,2
+Medical,Medical Data Platforms,2014,0.3727164898229725,0.3677651153782383,2
+Medical,Medical Data Platforms,2015,0.297388225827169,0.259329264565431,2
+Medical,Medical Data Platforms,2016,0.3230669895521009,0.3077328990365545,2
+Medical,Medical Data Platforms,2017,0.2762436887593528,0.2182776062978997,2
+Medical,Medical Data Platforms,2018,0.15203784654173938,0.058609789220225986,3
+Medical,Medical Data Platforms,2019,0.32384378850203244,0.3545242212216277,3
+Medical,Medical Data Platforms,2020,0.2971539385975715,0.24820476926488072,2
+Medical,Medical Data Platforms,2021,0.25627927549923374,0.2274783356325554,3
+Medical,Medical Data Platforms,2022,0.16619443254765257,0.09011947393785132,3
+Medical,Medical Data Platforms,2023,0.28963419994389805,0.3098518339754042,3
+Medical,Medical Data Platforms,2024,0.07213927231688431,0.06293883215179043,3
+Medical,Medical Devices,2010,0.12570117556651486,,1
+Medical,Medical Devices,2011,0.12932296314659242,,1
+Medical,Medical Devices,2012,0.11644809178350629,,1
+Medical,Medical Devices,2013,0.13042621884885022,,1
+Medical,Medical Devices,2014,0.12860417644621056,,1
+Medical,Medical Devices,2015,0.1350076971026971,,1
+Medical,Medical Devices,2016,0.11918732749350917,,1
+Medical,Medical Devices,2017,0.14269243917640895,,1
+Medical,Medical Devices,2018,0.1261704890304427,,1
+Medical,Medical Devices,2019,0.1370703032162373,,1
+Medical,Medical Devices,2020,0.119928804807518,,1
+Medical,Medical Devices,2021,0.13632583663530826,,1
+Medical,Medical Devices,2022,0.12130802887648104,,1
+Medical,Medical Devices,2023,0.11762264673281403,,1
+Medical,Medical Devices,2024,0.09670853609050853,,1
+Medical,Medical Imaging,2010,0.13120978880364959,,1
+Medical,Medical Imaging,2011,0.13108373242641164,,1
+Medical,Medical Imaging,2012,0.12784112828060068,,1
+Medical,Medical Imaging,2013,0.1367381196390848,,1
+Medical,Medical Imaging,2014,0.11792973229279603,,1
+Medical,Medical Imaging,2015,0.15857142802146568,,1
+Medical,Medical Imaging,2016,0.11726283417326651,,1
+Medical,Medical Imaging,2017,0.13002150490954398,,1
+Medical,Medical Imaging,2018,0.15221285013489336,,1
+Medical,Medical Imaging,2019,0.11606917220323962,,1
+Medical,Medical Imaging,2020,0.14195475282710102,,1
+Medical,Medical Imaging,2021,0.11431051125970558,,1
+Medical,Medical Imaging,2022,0.1347378526320714,,1
+Medical,Medical Imaging,2023,0.11455543718546525,,1
+Medical,Medical Imaging,2024,0.10011278307733597,,1
+Medical,Mental Health,2010,0.12809333184149854,,1
+Medical,Mental Health,2011,0.13403649532358392,,1
+Medical,Mental Health,2012,0.12429148469307708,,1
+Medical,Mental Health,2013,0.12208775509394697,,1
+Medical,Mental Health,2014,0.1459351588842194,,1
+Medical,Mental Health,2015,0.11222453710300172,,1
+Medical,Mental Health,2016,0.12934223742319997,,1
+Medical,Mental Health,2017,0.1346920302524396,,1
+Medical,Mental Health,2018,0.12684951687431206,,1
+Medical,Mental Health,2020,0.15766706027717176,,1
+Medical,Mental Health,2022,0.09250329026729455,,1
+Medical,Mental Health,2024,0.10254664514871542,,1
+Medical,Personalized Medicine,2010,0.1284263362043662,,1
+Medical,Personalized Medicine,2011,0.12167242749714659,,1
+Medical,Personalized Medicine,2012,0.12982904413695306,,1
+Medical,Personalized Medicine,2013,0.12533068789623947,,1
+Medical,Personalized Medicine,2014,0.12827867396180953,,1
+Medical,Personalized Medicine,2015,0.13636423043238355,,1
+Medical,Personalized Medicine,2016,0.12328396760578854,,1
+Medical,Personalized Medicine,2022,0.10849328343763658,,1
+Medical,Personalized Medicine,2024,0.10601803402644118,,1
+Medical,Pharmaceutical Research,2010,0.2509062145210478,,1
+Medical,Pharmaceutical Research,2011,0.1547477513889478,,1
+Medical,Pharmaceutical Research,2012,0.24191055582701254,,1
+Medical,Pharmaceutical Research,2013,0.22027815754427066,,1
+Medical,Pharmaceutical Research,2014,0.27146941052578794,,1
+Medical,Pharmaceutical Research,2015,0.1591728644554234,,1
+Medical,Pharmaceutical Research,2016,0.26086945708022735,,1
+Medical,Pharmaceutical Research,2017,0.2069461212838569,,1
+Medical,Pharmaceutical Research,2018,0.2748924143510343,,1
+Medical,Pharmaceutical Research,2019,0.23663010685406274,,1
+Medical,Pharmaceutical Research,2020,0.2160802371550284,,1
+Medical,Pharmaceutical Research,2021,0.21258605270841258,,1
+Medical,Pharmaceutical Research,2022,0.22987913984784067,,1
+Medical,Pharmaceutical Research,2023,0.11134684281786374,,1
+Medical,Pharmaceutical Research,2024,0.1603933299055331,,1
+Medical,Remote Patient Monitoring,2010,0.3100627834392641,0.05756006989416061,2
+Medical,Remote Patient Monitoring,2011,0.3226229843503985,0.09263799487687134,2
+Medical,Remote Patient Monitoring,2012,0.29978477594845426,0.07127351881782694,3
+Medical,Remote Patient Monitoring,2013,0.19353071734896307,,1
+Medical,Remote Patient Monitoring,2014,0.27791019291582814,0.031868975702302585,2
+Medical,Remote Patient Monitoring,2015,0.3240033582427715,0.00572271758392992,2
+Medical,Remote Patient Monitoring,2016,0.3282590699742129,0.12427829758694094,3
+Medical,Remote Patient Monitoring,2017,0.3673279717185153,0.08384973937203861,2
+Medical,Remote Patient Monitoring,2018,0.24030111019949107,0.09517559953486843,3
+Medical,Remote Patient Monitoring,2019,0.3456895323719274,0.13781384859502993,3
+Medical,Remote Patient Monitoring,2020,0.31056634094948105,0.045299249191960024,3
+Medical,Remote Patient Monitoring,2021,0.47196700281284193,0.0984704001334611,2
+Medical,Remote Patient Monitoring,2022,0.03489410935883932,0.0363217195361946,2
+Medical,Remote Patient Monitoring,2023,0.2600080598416324,0.15711630502690258,3
+Medical,Remote Patient Monitoring,2024,0.10229892197152385,0.07417552709131807,3
+Medical,Telemedicine,2010,0.1365012506869247,,1
+Medical,Telemedicine,2011,0.1372684083000983,,1
+Medical,Telemedicine,2012,0.1392933433914757,,1
+Medical,Telemedicine,2013,0.12922134199750346,,1
+Medical,Telemedicine,2014,0.14804936927001075,,1
+Medical,Telemedicine,2015,0.13772026427378625,,1
+Medical,Telemedicine,2016,0.14226104969367964,,1
+Medical,Telemedicine,2017,0.1434796487818731,,1
+Medical,Telemedicine,2018,0.13969881068543108,,1
+Medical,Telemedicine,2019,0.14769930261424882,,1
+Medical,Telemedicine,2020,0.16641246490654138,,1
+Medical,Telemedicine,2021,0.11625202845272718,,1
+Medical,Telemedicine,2022,0.11383397202613496,,1
+Medical,Telemedicine,2023,0.12458136869600629,,1
+Medical,Telemedicine,2024,0.11405362804817103,,1
+Medical,Veterinary Medicine,2010,0.15754271837403686,0.0413296998427178,2
+Medical,Veterinary Medicine,2011,0.12996154957508937,0.009983158254734727,2
+Medical,Veterinary Medicine,2012,0.17501582879647948,0.062355543158948146,2
+Medical,Veterinary Medicine,2013,0.13551167533497804,0.01316804995450186,2
+Medical,Veterinary Medicine,2014,0.16041113623718334,0.038786223187080755,2
+Medical,Veterinary Medicine,2015,0.15606898975976652,0.04105656830543208,2
+Medical,Veterinary Medicine,2016,0.13671122109383768,0.014768855572247145,2
+Medical,Veterinary Medicine,2017,0.1655161089637769,0.041746078436457376,2
+Medical,Veterinary Medicine,2018,0.15083912575015665,0.04250926433262864,2
+Medical,Veterinary Medicine,2019,0.15083263257815777,0.028744116178623158,2
+Medical,Veterinary Medicine,2020,0.14659596204194136,0.03720991958728049,2
+Medical,Veterinary Medicine,2021,0.13590273162654146,0.0034753804009854234,2
+Medical,Veterinary Medicine,2022,0.14924512246322785,0.03533388566098198,2
+Medical,Veterinary Medicine,2023,0.1331114388280475,0.024542804656547363,2
+Medical,Veterinary Medicine,2024,0.10653852851608542,0.004307398703483472,2
+Oils-Energy,Environmental Technology,2010,0.246165092076308,0.1344759613924094,2
+Oils-Energy,Environmental Technology,2011,0.14598360956499912,0.0031393548646599305,2
+Oils-Energy,Environmental Technology,2012,0.20046718983516898,0.05423107307154692,2
+Oils-Energy,Environmental Technology,2013,0.17477497266106023,0.04008016389952467,2
+Oils-Energy,Environmental Technology,2014,0.20263958566539764,0.055427597912938394,2
+Oils-Energy,Environmental Technology,2015,0.14462452771305517,0.023473726040777357,2
+Oils-Energy,Environmental Technology,2016,0.1546550785872668,0.025722499158948545,2
+Oils-Energy,Environmental Technology,2017,0.17346540613811956,0.04230719417201803,2
+Oils-Energy,Environmental Technology,2018,0.220084303351256,0.06405312757784364,2
+Oils-Energy,Environmental Technology,2019,0.23843199459664632,0.07822323165381298,2
+Oils-Energy,Environmental Technology,2020,0.08631267345691784,0.011417130887926235,2
+Oils-Energy,Environmental Technology,2021,0.2089541032726145,0.05983004935633694,2
+Oils-Energy,Environmental Technology,2022,0.14837181604146643,0.025537679354630142,2
+Oils-Energy,Environmental Technology,2023,0.1773864796608019,0.04151854495107074,2
+Oils-Energy,Environmental Technology,2024,0.13005565218383006,0.015717320710148315,2
+Oils-Energy,Grid Modernization,2010,0.16337099461070753,0.039020122624811665,3
+Oils-Energy,Grid Modernization,2011,0.1276188942770665,0.038445517377779875,3
+Oils-Energy,Grid Modernization,2012,0.13793883303737023,0.025994850001561088,3
+Oils-Energy,Grid Modernization,2013,0.129904825137119,0.014113666267510533,3
+Oils-Energy,Grid Modernization,2014,0.12506329908006783,0.00884955386701544,3
+Oils-Energy,Grid Modernization,2015,0.15237661918146309,0.03404737043044642,3
+Oils-Energy,Grid Modernization,2016,0.11047824492925033,0.008061840296368883,3
+Oils-Energy,Grid Modernization,2017,0.11635854519841832,0.005602524970474016,3
+Oils-Energy,Grid Modernization,2018,0.1594235445228136,0.022189155015187707,3
+Oils-Energy,Grid Modernization,2019,0.12559226343138374,0.013222465172646558,3
+Oils-Energy,Grid Modernization,2020,0.13881548276797115,0.014896000587220085,3
+Oils-Energy,Grid Modernization,2021,0.14189276935905037,0.017538749471175577,3
+Oils-Energy,Grid Modernization,2022,0.13742106725407435,0.01989167322880146,3
+Oils-Energy,Grid Modernization,2023,0.1028028083102907,0.029434230408741956,3
+Oils-Energy,Grid Modernization,2024,0.13126697324384906,0.01734964719987737,3
+Retail-Wholesale,Automotive Retail,2010,0.10323021039585022,,1
+Retail-Wholesale,Automotive Retail,2011,0.10320451353262966,,1
+Retail-Wholesale,Automotive Retail,2012,0.1030843515714328,,1
+Retail-Wholesale,Automotive Retail,2013,0.10253957984974107,,1
+Retail-Wholesale,Automotive Retail,2014,0.1043519463864878,,1
+Retail-Wholesale,Automotive Retail,2015,0.10244807907784248,,1
+Retail-Wholesale,Automotive Retail,2016,0.1024630083246798,,1
+Retail-Wholesale,Automotive Retail,2017,0.10407609542564827,,1
+Retail-Wholesale,Automotive Retail,2018,0.10296562869801058,,1
+Retail-Wholesale,Automotive Retail,2019,0.10510711295816874,,1
+Retail-Wholesale,Automotive Retail,2020,0.10221090914860025,,1
+Retail-Wholesale,Automotive Retail,2021,0.10390140367916308,,1
+Retail-Wholesale,Automotive Retail,2022,0.10278606760739792,,1
+Retail-Wholesale,Automotive Retail,2023,0.10277412326597887,,1
+Retail-Wholesale,Automotive Retail,2024,0.10287515668647869,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2010,0.1030290337748891,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2011,0.10283245781394848,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2012,0.10199937803627677,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2013,0.10336236932815115,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2014,0.10248752036870754,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2015,0.10262747084964857,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2016,0.10295265137471296,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2017,0.10220712647247979,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2018,0.10299323619148008,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2019,0.1026513574727854,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2020,0.10300319569393683,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2021,0.10218906651911708,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2022,0.10305555358504873,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2023,0.10222497729225774,,1
+Retail-Wholesale,Beauty and Personal Care Retail,2024,0.10237691567049818,,1
+Retail-Wholesale,Consumer Electronics Retail,2010,0.10325360478808554,,1
+Retail-Wholesale,Consumer Electronics Retail,2011,0.10306663046404209,,1
+Retail-Wholesale,Consumer Electronics Retail,2012,0.10328209754598527,,1
+Retail-Wholesale,Consumer Electronics Retail,2013,0.10293905490633448,,1
+Retail-Wholesale,Consumer Electronics Retail,2014,0.10239027111803378,,1
+Retail-Wholesale,Consumer Electronics Retail,2015,0.10308006155234327,,1
+Retail-Wholesale,Consumer Electronics Retail,2016,0.10322846177514279,,1
+Retail-Wholesale,Consumer Electronics Retail,2017,0.1020842317066661,,1
+Retail-Wholesale,Consumer Electronics Retail,2018,0.10394806820514733,,1
+Retail-Wholesale,Consumer Electronics Retail,2019,0.10283856143427376,,1
+Retail-Wholesale,Consumer Electronics Retail,2020,0.10321494690594923,,1
+Retail-Wholesale,Consumer Electronics Retail,2021,0.10272565942386329,,1
+Retail-Wholesale,Consumer Electronics Retail,2022,0.10304987714951142,,1
+Retail-Wholesale,Consumer Electronics Retail,2023,0.1028873316145179,,1
+Retail-Wholesale,Consumer Electronics Retail,2024,0.1028583903793217,,1
+Retail-Wholesale,Discount Retail,2010,0.10264721771536837,,1
+Retail-Wholesale,Discount Retail,2011,0.10243521639924785,,1
+Retail-Wholesale,Discount Retail,2012,0.10192469432449208,,1
+Retail-Wholesale,Discount Retail,2013,0.10374322629064152,,1
+Retail-Wholesale,Discount Retail,2014,0.10192188782170895,,1
+Retail-Wholesale,Discount Retail,2015,0.10219839687462541,,1
+Retail-Wholesale,Discount Retail,2016,0.10209040653327262,,1
+Retail-Wholesale,Discount Retail,2017,0.10294761083058689,,1
+Retail-Wholesale,Discount Retail,2018,0.10345492264242906,,1
+Retail-Wholesale,Discount Retail,2019,0.10261201800951217,,1
+Retail-Wholesale,Discount Retail,2020,0.1031008356906052,,1
+Retail-Wholesale,Discount Retail,2021,0.10347341739862749,,1
+Retail-Wholesale,Discount Retail,2022,0.10238562413024879,,1
+Retail-Wholesale,Discount Retail,2023,0.1027991114687958,,1
+Retail-Wholesale,Discount Retail,2024,0.1027471675379746,,1
+Retail-Wholesale,Fashion Retail,2010,0.10217588242362685,,1
+Retail-Wholesale,Fashion Retail,2011,0.10212093150208522,,1
+Retail-Wholesale,Fashion Retail,2012,0.10249977447101533,,1
+Retail-Wholesale,Fashion Retail,2013,0.10191861586653304,,1
+Retail-Wholesale,Fashion Retail,2014,0.1025552206183843,,1
+Retail-Wholesale,Fashion Retail,2015,0.10183296858803235,,1
+Retail-Wholesale,Fashion Retail,2016,0.10259776881581839,,1
+Retail-Wholesale,Fashion Retail,2017,0.10235132310666092,,1
+Retail-Wholesale,Fashion Retail,2018,0.10342245212772969,,1
+Retail-Wholesale,Fashion Retail,2019,0.10338638455818794,,1
+Retail-Wholesale,Fashion Retail,2020,0.10305658614950869,,1
+Retail-Wholesale,Fashion Retail,2021,0.10248336149562573,,1
+Retail-Wholesale,Fashion Retail,2022,0.10349773703387319,,1
+Retail-Wholesale,Fashion Retail,2023,0.10229616786889503,,1
+Retail-Wholesale,Fashion Retail,2024,0.10232879834472051,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2010,0.10454965542762677,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2011,0.104759777487723,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2012,0.10397825686040114,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2013,0.1050633999008911,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2014,0.10409604061733899,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2015,0.10466377580606666,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2016,0.10493691753750044,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2017,0.10488569561932548,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2018,0.10521989293187677,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2019,0.10429408122750355,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2020,0.10626492656821276,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2021,0.10355604823828662,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2022,0.10252315070121963,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2023,0.10362356950699954,,1
+Retail-Wholesale,Furniture and Home Goods Retail,2024,0.10246496463132336,,1
+Retail-Wholesale,Health and Wellness Retail,2010,0.3782318964247791,,1
+Retail-Wholesale,Health and Wellness Retail,2011,0.3340929484761452,,1
+Retail-Wholesale,Health and Wellness Retail,2012,0.2055485034624509,,1
+Retail-Wholesale,Health and Wellness Retail,2013,0.42124033598096844,,1
+Retail-Wholesale,Health and Wellness Retail,2014,0.4634403482506115,,1
+Retail-Wholesale,Health and Wellness Retail,2015,0.2307193948712661,,1
+Retail-Wholesale,Health and Wellness Retail,2016,0.32805822180943334,,1
+Retail-Wholesale,Health and Wellness Retail,2017,0.35906609619263635,,1
+Retail-Wholesale,Health and Wellness Retail,2018,0.3248879482017735,,1
+Retail-Wholesale,Health and Wellness Retail,2019,0.23591879098921445,,1
+Retail-Wholesale,Health and Wellness Retail,2020,0.6396938850347502,,1
+Retail-Wholesale,Health and Wellness Retail,2021,0.019653873249993462,,1
+Retail-Wholesale,Health and Wellness Retail,2022,0.37820980793173403,,1
+Retail-Wholesale,Health and Wellness Retail,2023,0.34300493249944036,,1
+Retail-Wholesale,Health and Wellness Retail,2024,0.023334449385587167,,1
+Retail-Wholesale,Luxury Goods,2010,0.10223333205031761,,1
+Retail-Wholesale,Luxury Goods,2011,0.1022071886584455,,1
+Retail-Wholesale,Luxury Goods,2012,0.10170673175823211,,1
+Retail-Wholesale,Luxury Goods,2013,0.10243724255014428,,1
+Retail-Wholesale,Luxury Goods,2014,0.10229367748928124,,1
+Retail-Wholesale,Luxury Goods,2015,0.1019980843435017,,1
+Retail-Wholesale,Luxury Goods,2016,0.10193145196458628,,1
+Retail-Wholesale,Luxury Goods,2017,0.10214727007036342,,1
+Retail-Wholesale,Luxury Goods,2018,0.10343435571556718,,1
+Retail-Wholesale,Luxury Goods,2019,0.10227819640763361,,1
+Retail-Wholesale,Luxury Goods,2020,0.1024184898694402,,1
+Retail-Wholesale,Luxury Goods,2021,0.10301811255581927,,1
+Retail-Wholesale,Luxury Goods,2022,0.1028733383789688,,1
+Retail-Wholesale,Luxury Goods,2023,0.10198138971513405,,1
+Retail-Wholesale,Luxury Goods,2024,0.10226084979534422,,1
+Retail-Wholesale,Online Marketplaces,2010,0.10415918838707149,,1
+Retail-Wholesale,Online Marketplaces,2011,0.10454244964669736,,1
+Retail-Wholesale,Online Marketplaces,2012,0.10335397117540902,,1
+Retail-Wholesale,Online Marketplaces,2013,0.1030678807559996,,1
+Retail-Wholesale,Online Marketplaces,2014,0.1035804641150563,,1
+Retail-Wholesale,Online Marketplaces,2015,0.1028356463881009,,1
+Retail-Wholesale,Online Marketplaces,2016,0.10273346919500169,,1
+Retail-Wholesale,Online Marketplaces,2017,0.10290415918838228,,1
+Retail-Wholesale,Online Marketplaces,2018,0.10312044057145911,,1
+Retail-Wholesale,Online Marketplaces,2019,0.10356916628743859,,1
+Retail-Wholesale,Online Marketplaces,2020,0.10299452292337115,,1
+Retail-Wholesale,Online Marketplaces,2021,0.1030293544016617,,1
+Retail-Wholesale,Online Marketplaces,2022,0.10285086679717417,,1
+Retail-Wholesale,Online Marketplaces,2023,0.10236187735720517,,1
+Retail-Wholesale,Online Marketplaces,2024,0.10246259411475804,,1
+Retail-Wholesale,Pet Supplies Retail,2010,0.10491197524526058,0.0010112296251343041,2
+Retail-Wholesale,Pet Supplies Retail,2011,0.1039212770183696,8.564011137511977e-05,2
+Retail-Wholesale,Pet Supplies Retail,2012,0.10538721939305842,0.0009502912992294619,2
+Retail-Wholesale,Pet Supplies Retail,2013,0.10412210141316525,0.0009507563764779069,2
+Retail-Wholesale,Pet Supplies Retail,2014,0.10595132509515784,0.002623384256048739,2
+Retail-Wholesale,Pet Supplies Retail,2015,0.1033669274004473,0.0013697638971337295,2
+Retail-Wholesale,Pet Supplies Retail,2016,0.10371659420846861,0.00032579809294938693,2
+Retail-Wholesale,Pet Supplies Retail,2017,0.10562384698423741,0.0014377140458196648,2
+Retail-Wholesale,Pet Supplies Retail,2018,0.10555799888316092,0.0029431558696237643,2
+Retail-Wholesale,Pet Supplies Retail,2019,0.10526262393018299,0.0007503896577530384,2
+Retail-Wholesale,Pet Supplies Retail,2020,0.10470113356096511,0.0015894248811753348,2
+Retail-Wholesale,Pet Supplies Retail,2021,0.1043977860478284,0.0019283802630673038,2
+Retail-Wholesale,Pet Supplies Retail,2022,0.10348942257466759,0.00013808698551144623,2
+Retail-Wholesale,Pet Supplies Retail,2023,0.10462681452765336,,1
+Retail-Wholesale,Pet Supplies Retail,2024,0.10340536036023687,0.0011854772616993864,2
+Retail-Wholesale,Retail Analytics,2010,0.13863350788080178,0.08575323429540974,6
+Retail-Wholesale,Retail Analytics,2011,0.132130709682064,0.07088855727498615,6
+Retail-Wholesale,Retail Analytics,2012,0.13104212016550568,0.06754330896711085,6
+Retail-Wholesale,Retail Analytics,2013,0.13744215276550542,0.08327916543963067,6
+Retail-Wholesale,Retail Analytics,2014,0.13943292020697282,0.08788248795499695,6
+Retail-Wholesale,Retail Analytics,2015,0.14948832627647463,0.11219483263268132,6
+Retail-Wholesale,Retail Analytics,2016,0.11166911433957909,0.021470183965388277,6
+Retail-Wholesale,Retail Analytics,2017,0.14433644622672678,0.10051127869805332,6
+Retail-Wholesale,Retail Analytics,2018,0.1671501492759851,0.14047113328307556,5
+Retail-Wholesale,Retail Analytics,2019,0.1284295869037784,0.06145056227174992,6
+Retail-Wholesale,Retail Analytics,2020,0.13488691019492752,0.07682021690236909,6
+Retail-Wholesale,Retail Analytics,2021,0.13575341128340057,0.07968781133297395,6
+Retail-Wholesale,Retail Analytics,2022,0.11551844355447759,0.03055755755857746,6
+Retail-Wholesale,Retail Analytics,2023,0.11567609892414743,0.03136576378323949,6
+Retail-Wholesale,Retail Analytics,2024,0.1287715903081849,0.06340966055903811,6
+Retail-Wholesale,Sporting Goods Retail,2010,0.10550277200630934,,1
+Retail-Wholesale,Sporting Goods Retail,2011,0.10456375093038274,,1
+Retail-Wholesale,Sporting Goods Retail,2012,0.10929693253338627,,1
+Retail-Wholesale,Sporting Goods Retail,2013,0.10507186426815406,,1
+Retail-Wholesale,Sporting Goods Retail,2014,0.10107022961337625,,1
+Retail-Wholesale,Sporting Goods Retail,2015,0.10963647217145872,,1
+Retail-Wholesale,Sporting Goods Retail,2016,0.1053531230914973,,1
+Retail-Wholesale,Sporting Goods Retail,2017,0.10827143256950739,,1
+Retail-Wholesale,Sporting Goods Retail,2018,0.10778381362537362,,1
+Retail-Wholesale,Sporting Goods Retail,2019,0.10803661856089262,,1
+Retail-Wholesale,Sporting Goods Retail,2020,0.10388620608856472,,1
+Retail-Wholesale,Sporting Goods Retail,2021,0.1081131537373947,,1
+Retail-Wholesale,Sporting Goods Retail,2022,0.10373370514076015,,1
+Retail-Wholesale,Sporting Goods Retail,2023,0.10658466270992077,,1
+Retail-Wholesale,Sporting Goods Retail,2024,0.10143254745675255,,1
+Retail-Wholesale,Toy Stores,2010,0.11439464514834939,,1
+Retail-Wholesale,Toy Stores,2011,0.11368491148737135,,1
+Retail-Wholesale,Toy Stores,2012,0.1136306564188415,,1
+Retail-Wholesale,Toy Stores,2013,0.11365368660191323,,1
+Retail-Wholesale,Toy Stores,2014,0.11180096762385969,,1
+Retail-Wholesale,Toy Stores,2015,0.12019791206616091,,1
+Retail-Wholesale,Toy Stores,2016,0.10856207181925652,,1
+Retail-Wholesale,Toy Stores,2017,0.11566361769636183,,1
+Retail-Wholesale,Toy Stores,2018,0.11208380050595254,,1
+Retail-Wholesale,Toy Stores,2019,0.11535602426785647,,1
+Retail-Wholesale,Toy Stores,2020,0.11516486756839794,,1
+Retail-Wholesale,Toy Stores,2021,0.10488696364566226,,1
+Retail-Wholesale,Toy Stores,2022,0.11104681448815462,,1
+Retail-Wholesale,Toy Stores,2023,0.10415555459535589,,1
+Retail-Wholesale,Toy Stores,2024,0.1056814335434175,,1
+Retail-Wholesale,Warehouse Management,2011,0.10417959957117018,,1
+Retail-Wholesale,Warehouse Management,2014,0.10306354527295544,,1
+Retail-Wholesale,Warehouse Management,2016,0.1051526891627927,,1
+Retail-Wholesale,Warehouse Management,2017,0.10307870069575413,,1
+Retail-Wholesale,Warehouse Management,2018,0.10515427675070335,,1
+Retail-Wholesale,Warehouse Management,2019,0.10366105202417328,,1
+Retail-Wholesale,Warehouse Management,2020,0.10396703474775487,,1
+Retail-Wholesale,Warehouse Management,2021,0.10408091829322222,,1
+Retail-Wholesale,Warehouse Management,2022,0.10290273889616147,,1
+Retail-Wholesale,Warehouse Management,2023,0.10407890329116268,,1
+Retail-Wholesale,Warehouse Management,2024,0.10259222419840514,,1
+Transportation,Autonomous Vehicle Transport,2010,0.11494026880010837,,1
+Transportation,Autonomous Vehicle Transport,2011,0.11453592008944274,,1
+Transportation,Autonomous Vehicle Transport,2012,0.11920034090510147,,1
+Transportation,Autonomous Vehicle Transport,2013,0.1084227165977259,,1
+Transportation,Autonomous Vehicle Transport,2014,0.11693175458250478,,1
+Transportation,Autonomous Vehicle Transport,2015,0.11883518025635388,,1
+Transportation,Autonomous Vehicle Transport,2016,0.109872289973075,,1
+Transportation,Autonomous Vehicle Transport,2017,0.12234667541167335,,1
+Transportation,Autonomous Vehicle Transport,2018,0.11883886878500867,,1
+Transportation,Autonomous Vehicle Transport,2019,0.11790202271396132,,1
+Transportation,Autonomous Vehicle Transport,2020,0.11801809069420538,,1
+Transportation,Autonomous Vehicle Transport,2021,0.11947082338639921,,1
+Transportation,Autonomous Vehicle Transport,2022,0.10741918551447656,,1
+Transportation,Autonomous Vehicle Transport,2023,0.11263223702211597,,1
+Transportation,Autonomous Vehicle Transport,2024,0.10446507438937064,,1
+Transportation,Cold Chain Logistics,2010,0.10729598685815384,0.004478867590614911,6
+Transportation,Cold Chain Logistics,2011,0.10530934949768471,0.002713963035574287,6
+Transportation,Cold Chain Logistics,2012,0.10644900012320907,0.0063559453556932015,6
+Transportation,Cold Chain Logistics,2013,0.10597227280188187,0.00754822856108287,6
+Transportation,Cold Chain Logistics,2014,0.10778177371841124,0.006894340013276595,5
+Transportation,Cold Chain Logistics,2015,0.10476156436990236,0.008523236082635725,6
+Transportation,Cold Chain Logistics,2016,0.10972648753641989,0.0062639556387871255,6
+Transportation,Cold Chain Logistics,2017,0.10945749997916336,0.003689342172135842,5
+Transportation,Cold Chain Logistics,2018,0.12483759273562552,0.028530324664914383,5
+Transportation,Cold Chain Logistics,2019,0.12002269508319124,0.015545739174176799,6
+Transportation,Cold Chain Logistics,2020,0.11357602895189618,0.015277774621379208,6
+Transportation,Cold Chain Logistics,2021,0.11453516088528508,0.0091820213011186,6
+Transportation,Cold Chain Logistics,2022,0.11495371718482711,0.012917804626118025,6
+Transportation,Cold Chain Logistics,2023,0.11126062091311906,0.0055389648828099,5
+Transportation,Cold Chain Logistics,2024,0.10817281406213253,0.009259329096355443,5
+Transportation,Courier and Parcel Delivery,2010,0.10428163997802187,,1
+Transportation,Courier and Parcel Delivery,2011,0.10500844251047223,,1
+Transportation,Courier and Parcel Delivery,2012,0.10514071360235136,,1
+Transportation,Courier and Parcel Delivery,2013,0.10261439374327673,,1
+Transportation,Courier and Parcel Delivery,2014,0.10753728976082452,,1
+Transportation,Courier and Parcel Delivery,2015,0.10343838543591959,,1
+Transportation,Courier and Parcel Delivery,2016,0.10375813661956244,,1
+Transportation,Courier and Parcel Delivery,2017,0.10848059511587169,,1
+Transportation,Courier and Parcel Delivery,2018,0.10568169423380898,,1
+Transportation,Courier and Parcel Delivery,2019,0.10948644641308516,,1
+Transportation,Courier and Parcel Delivery,2020,0.10473474492534697,,1
+Transportation,Courier and Parcel Delivery,2021,0.11115503200069482,,1
+Transportation,Courier and Parcel Delivery,2022,0.10688660534826375,,1
+Transportation,Courier and Parcel Delivery,2023,0.10235770206187433,,1
+Transportation,Courier and Parcel Delivery,2024,0.10672431169862069,,1
+Transportation,Drone Delivery Systems,2010,0.1204503498654671,,1
+Transportation,Drone Delivery Systems,2011,0.11599110066065323,,1
+Transportation,Drone Delivery Systems,2012,0.12279573766801694,,1
+Transportation,Drone Delivery Systems,2013,0.11674832657778163,,1
+Transportation,Drone Delivery Systems,2014,0.11531465122706241,,1
+Transportation,Drone Delivery Systems,2015,0.106598894633051,,1
+Transportation,Drone Delivery Systems,2016,0.10761610492803317,,1
+Transportation,Drone Delivery Systems,2017,0.1037801584271522,,1
+Transportation,Drone Delivery Systems,2018,0.11109707706668978,,1
+Transportation,Drone Delivery Systems,2019,0.10880732280250281,,1
+Transportation,Drone Delivery Systems,2020,0.10565153219565954,,1
+Transportation,Drone Delivery Systems,2021,0.10747642321645756,,1
+Transportation,Drone Delivery Systems,2022,0.10404029457971864,,1
+Transportation,Drone Delivery Systems,2023,0.10560566272606486,,1
+Transportation,Freight Forwarding,2010,0.10436948924682836,,1
+Transportation,Freight Forwarding,2011,0.10344885661464404,,1
+Transportation,Freight Forwarding,2012,0.10661114114904312,,1
+Transportation,Freight Forwarding,2013,0.10309511679988044,,1
+Transportation,Freight Forwarding,2014,0.10652926195784634,,1
+Transportation,Freight Forwarding,2015,0.10083214646263734,,1
+Transportation,Freight Forwarding,2016,0.11206928663841284,,1
+Transportation,Freight Forwarding,2017,0.09923210868260816,,1
+Transportation,Freight Forwarding,2018,0.11597672341468745,,1
+Transportation,Freight Forwarding,2019,0.10649916193752303,,1
+Transportation,Freight Forwarding,2021,0.10704163546103601,,1
+Transportation,Freight Forwarding,2023,0.1038166521593635,,1
+Transportation,Freight Forwarding,2024,0.10431253124001118,,1
+Transportation,Logistics and Supply Chain Management,2010,0.1563024809822128,,1
+Transportation,Logistics and Supply Chain Management,2011,0.14948338182061247,,1
+Transportation,Logistics and Supply Chain Management,2015,0.1468820459491836,,1
+Transportation,Logistics and Supply Chain Management,2017,0.22905016764628047,,1
+Transportation,Logistics and Supply Chain Management,2018,0.247626366819459,,1
+Transportation,Logistics and Supply Chain Management,2019,0.224463359903894,,1
+Transportation,Logistics and Supply Chain Management,2020,0.2414998656195328,,1
+Transportation,Logistics and Supply Chain Management,2021,0.10308133844313949,,1
+Transportation,Logistics and Supply Chain Management,2022,0.22652917877477083,,1
+Transportation,Logistics and Supply Chain Management,2023,0.21523573651258562,,1
+Transportation,Multimodal Transportation Solutions,2010,0.13748113180080226,,1
+Transportation,Multimodal Transportation Solutions,2011,0.14259777383822347,,1
+Transportation,Multimodal Transportation Solutions,2012,0.10739320223266063,,1
+Transportation,Multimodal Transportation Solutions,2013,0.15102577450031615,,1
+Transportation,Multimodal Transportation Solutions,2014,0.13140363052341542,,1
+Transportation,Multimodal Transportation Solutions,2015,0.12099485568822489,,1
+Transportation,Multimodal Transportation Solutions,2016,0.1697604387376528,,1
+Transportation,Multimodal Transportation Solutions,2017,0.12505461943546506,,1
+Transportation,Multimodal Transportation Solutions,2018,0.14911068521013646,,1
+Transportation,Multimodal Transportation Solutions,2019,0.16539836659296675,,1
+Transportation,Multimodal Transportation Solutions,2020,0.15136035885362778,,1
+Transportation,Multimodal Transportation Solutions,2021,0.11660459208536188,,1
+Transportation,Multimodal Transportation Solutions,2022,0.15849933404030256,,1
+Transportation,Multimodal Transportation Solutions,2023,0.12898155883538479,,1
+Transportation,Multimodal Transportation Solutions,2024,0.11290437894008136,,1
+Transportation,Public Transit Systems,2010,0.10608526054383005,,1
+Transportation,Public Transit Systems,2011,0.10816596512635478,0.004462428763193021,2
+Transportation,Public Transit Systems,2012,0.1103338849651494,0.009321130996393196,2
+Transportation,Public Transit Systems,2013,0.10724253864108316,,1
+Transportation,Public Transit Systems,2014,0.10869312309839,0.005246063762572739,2
+Transportation,Public Transit Systems,2015,0.10801150493971931,0.007492390080696173,2
+Transportation,Public Transit Systems,2016,0.11241966023579755,0.003423805507968165,2
+Transportation,Public Transit Systems,2017,0.10227817148653144,,1
+Transportation,Public Transit Systems,2018,0.11808505409711975,0.004108769142058936,2
+Transportation,Public Transit Systems,2019,0.1116807764780525,0.007773822695215511,2
+Transportation,Public Transit Systems,2020,0.11081969068131645,0.0023988931122738244,2
+Transportation,Public Transit Systems,2021,0.11246809027240731,0.00429110881117081,2
+Transportation,Public Transit Systems,2022,0.10433471604841675,0.0006117424793527979,2
+Transportation,Public Transit Systems,2023,0.11046890036356724,0.002312230855063072,2
+Transportation,Public Transit Systems,2024,0.10608200665680341,0.007281111052050422,2
+Transportation,Ride-Sharing Platforms,2010,0.12177797919568963,0.0036381927041724527,2
+Transportation,Ride-Sharing Platforms,2011,0.11647411469084135,0.004915200113555759,3
+Transportation,Ride-Sharing Platforms,2012,0.10980526667989218,0.0029717249992417196,2
+Transportation,Ride-Sharing Platforms,2013,0.1189155117003875,0.001070214168573826,2
+Transportation,Ride-Sharing Platforms,2014,0.1050271036002587,0.00600300003846227,3
+Transportation,Ride-Sharing Platforms,2015,0.11804218657945807,,1
+Transportation,Ride-Sharing Platforms,2016,0.10610469450443029,,1
+Transportation,Ride-Sharing Platforms,2017,0.11467050248303694,,1
+Transportation,Ride-Sharing Platforms,2018,0.13074629322458478,,1
+Transportation,Ride-Sharing Platforms,2019,0.10919827018456718,,1
+Transportation,Ride-Sharing Platforms,2020,0.11654170059471423,,1
+Transportation,Ride-Sharing Platforms,2021,0.10498605919664283,0.0019415824684136176,2
+Transportation,Ride-Sharing Platforms,2022,0.10734728204792317,0.0016367828132171263,3
+Transportation,Ride-Sharing Platforms,2023,0.10651180177079056,0.00103210716778407,2
+Transportation,Ride-Sharing Platforms,2024,0.10444183904739102,0.0004590717044884283,2
+Transportation,Transport Data Analytics,2010,0.259804884007066,0.21563574901841895,2
+Transportation,Transport Data Analytics,2011,0.23422619827745977,0.17587446495657844,2
+Transportation,Transport Data Analytics,2012,0.3138747931900151,0.28929204230304284,2
+Transportation,Transport Data Analytics,2013,0.2793479627474,0.24258810830211394,2
+Transportation,Transport Data Analytics,2014,0.20406274490388354,0.13739870935645287,2
+Transportation,Transport Data Analytics,2015,0.2192877475646461,0.15645907497968575,2
+Transportation,Transport Data Analytics,2016,0.13844113969463784,0.038192125325700266,2
+Transportation,Transport Data Analytics,2017,0.35326685946811875,0.3485346588860623,2
+Transportation,Transport Data Analytics,2018,0.3051314456479659,0.2647602274599554,2
+Transportation,Transport Data Analytics,2019,0.1995438071692643,0.12572411900904062,2
+Transportation,Transport Data Analytics,2020,0.32791065014506227,0.3003813733201191,2
+Transportation,Transport Data Analytics,2021,0.14352600054419778,0.05153937402365642,2
+Transportation,Transport Data Analytics,2022,0.30577111011307806,0.27592407476471864,2
+Transportation,Transport Data Analytics,2023,0.1872917209917693,0.1104242180148941,2
+Transportation,Transport Data Analytics,2024,0.12432926782922268,0.03388195310307806,2
+Utilities,Battery Recycling,2010,0.11022630164486284,0.0040335511501976545,2
+Utilities,Battery Recycling,2011,0.1068703944725036,0.00472748033670713,2
+Utilities,Battery Recycling,2012,0.10944288490463072,0.00984270921681409,2
+Utilities,Battery Recycling,2013,0.10543183752300385,0.000569219393656867,2
+Utilities,Battery Recycling,2014,0.10868824575333651,0.007640109304012005,2
+Utilities,Battery Recycling,2015,0.10300541364185678,0.001720916598254937,2
+Utilities,Battery Recycling,2016,0.1055765852064372,0.0019103133390369962,2
+Utilities,Battery Recycling,2017,0.1070635735066627,0.006034921698192046,2
+Utilities,Battery Recycling,2018,0.10831887252420125,0.002253606472320416,2
+Utilities,Battery Recycling,2019,0.10690229468213805,0.00430308407167307,2
+Utilities,Battery Recycling,2020,0.1102327531500138,0.007091341037270425,2
+Utilities,Battery Recycling,2021,0.10357977906520449,0.0008887758564458159,2
+Utilities,Battery Recycling,2022,0.11353925559050583,0.010190640309193219,2
+Utilities,Battery Recycling,2023,0.10257709007684324,0.0024191942415992427,2
+Utilities,Battery Recycling,2024,0.10444164049221219,0.004241734877710741,2
+Utilities,Clean Energy Integration,2010,0.208228870735838,,1
+Utilities,Clean Energy Integration,2011,0.18993284543131597,,1
+Utilities,Clean Energy Integration,2012,0.1973633404498094,,1
+Utilities,Clean Energy Integration,2013,0.18976488821130102,,1
+Utilities,Clean Energy Integration,2014,0.20283474598214396,,1
+Utilities,Clean Energy Integration,2015,0.15274961289915395,,1
+Utilities,Clean Energy Integration,2016,0.18980721846144488,,1
+Utilities,Clean Energy Integration,2017,0.2068052704042776,,1
+Utilities,Clean Energy Integration,2018,0.24950687247761916,,1
+Utilities,Clean Energy Integration,2019,0.21948899063126273,,1
+Utilities,Clean Energy Integration,2020,0.1751832424332216,,1
+Utilities,Clean Energy Integration,2021,0.1954003709703864,,1
+Utilities,Clean Energy Integration,2022,0.14536580691982204,,1
+Utilities,Clean Energy Integration,2023,0.17345768655337326,,1
+Utilities,Clean Energy Integration,2024,0.1181838772261089,,1
+Utilities,District Heating and Cooling,2010,0.10673423917489593,0.002638602217776285,3
+Utilities,District Heating and Cooling,2011,0.10565984437988209,0.005305888337270592,3
+Utilities,District Heating and Cooling,2012,0.1094336708061845,0.005540974420956585,3
+Utilities,District Heating and Cooling,2013,0.10788181890662336,0.005927646384167417,3
+Utilities,District Heating and Cooling,2014,0.10560442733196035,0.0038102866613168728,3
+Utilities,District Heating and Cooling,2015,0.10614904835448784,0.005908360810209399,3
+Utilities,District Heating and Cooling,2016,0.1081473717560671,0.006035478023003527,3
+Utilities,District Heating and Cooling,2017,0.10305234590590777,0.004525864947661227,3
+Utilities,District Heating and Cooling,2018,0.11460244948204254,0.0035281909348824606,2
+Utilities,District Heating and Cooling,2019,0.11101412473081637,0.0008996914374535462,2
+Utilities,District Heating and Cooling,2020,0.11515010736062632,0.009390598423367714,3
+Utilities,District Heating and Cooling,2021,0.10989195575693832,0.000556938191821468,2
+Utilities,District Heating and Cooling,2022,0.10973466919295817,0.005247304748517157,2
+Utilities,District Heating and Cooling,2023,0.10160000033013515,0.008447046307318089,3
+Utilities,District Heating and Cooling,2024,0.10887601927573733,0.005079623848134723,3
+Utilities,Energy-as-a-Service Platforms,2010,0.24529877088976693,0.2442670677990217,3
+Utilities,Energy-as-a-Service Platforms,2011,0.12862536172177702,0.03734416595111144,4
+Utilities,Energy-as-a-Service Platforms,2012,0.13957731800837989,0.052476724293078564,3
+Utilities,Energy-as-a-Service Platforms,2013,0.17870628162160995,0.13172051104394983,4
+Utilities,Energy-as-a-Service Platforms,2014,0.0937298686992416,0.01268342971306384,3
+Utilities,Energy-as-a-Service Platforms,2015,0.16101964385149165,0.10114437907438106,4
+Utilities,Energy-as-a-Service Platforms,2016,0.1453838015530093,0.07284948844654585,4
+Utilities,Energy-as-a-Service Platforms,2017,0.14519919931975545,0.07415136654438094,4
+Utilities,Energy-as-a-Service Platforms,2018,0.17866776139859442,0.12910942529368805,4
+Utilities,Energy-as-a-Service Platforms,2019,0.14206073711393785,0.06508079941087043,4
+Utilities,Energy-as-a-Service Platforms,2020,0.13431343559445325,0.05461282365926044,4
+Utilities,Energy-as-a-Service Platforms,2021,0.11221911228821871,0.01125108559908431,4
+Utilities,Energy-as-a-Service Platforms,2022,0.11544944960345976,0.021670097753823628,4
+Utilities,Energy-as-a-Service Platforms,2023,0.21292325677576163,0.19176537300434476,4
+Utilities,Energy-as-a-Service Platforms,2024,0.09333876038951175,0.01649249884671037,4
+Utilities,Hydrogen Utilities,2010,0.2371320226723462,,1
+Utilities,Hydrogen Utilities,2011,0.15776800393497503,,1
+Utilities,Hydrogen Utilities,2012,0.30855184146682263,0.28784399597301275,2
+Utilities,Hydrogen Utilities,2013,0.0942669036758847,0.012157377554929266,2
+Utilities,Hydrogen Utilities,2014,0.15774645512187693,,1
+Utilities,Hydrogen Utilities,2015,0.26191838524180433,,1
+Utilities,Hydrogen Utilities,2016,0.18829992230634351,,1
+Utilities,Hydrogen Utilities,2017,0.2282492544404099,,1
+Utilities,Hydrogen Utilities,2018,0.22912087127687641,,1
+Utilities,Hydrogen Utilities,2019,0.24729493832304122,,1
+Utilities,Hydrogen Utilities,2020,0.2501656470046374,,1
+Utilities,Hydrogen Utilities,2021,0.17841243274089333,,1
+Utilities,Hydrogen Utilities,2022,0.29907156883703584,,1
+Utilities,Hydrogen Utilities,2023,0.02185449922419822,,1
+Utilities,Hydrogen Utilities,2024,0.2051482830679093,,1
+Utilities,Public Lighting Solutions,2010,0.1086596577358882,0.003737035684755627,3
+Utilities,Public Lighting Solutions,2011,0.10788276011976315,0.0038281330667643172,3
+Utilities,Public Lighting Solutions,2012,0.10785385804901026,0.0031101387259478675,3
+Utilities,Public Lighting Solutions,2013,0.10912399938703125,0.004613194693252628,3
+Utilities,Public Lighting Solutions,2014,0.10582183771225595,0.0012555898940354924,3
+Utilities,Public Lighting Solutions,2015,0.10945129206203978,0.0040774536333343485,3
+Utilities,Public Lighting Solutions,2016,0.10926742015874213,0.004545592385364752,3
+Utilities,Public Lighting Solutions,2017,0.10660002219770463,0.0028276285244309444,3
+Utilities,Public Lighting Solutions,2018,0.11059903443764256,0.005383934028697721,3
+Utilities,Public Lighting Solutions,2019,0.1116588345885582,0.004963583361700064,3
+Utilities,Public Lighting Solutions,2020,0.11146551198483497,0.008452339497410876,3
+Utilities,Public Lighting Solutions,2021,0.1080303708036453,0.005654337017726479,2
+Utilities,Public Lighting Solutions,2022,0.10708588365796773,0.002126184409969996,2
+Utilities,Public Lighting Solutions,2023,0.10642562129988664,0.0025081379900925437,2
+Utilities,Public Lighting Solutions,2024,0.10562210908211284,0.0025512185637965898,2
+Utilities,Solar Utilities,2010,0.3002865728845985,,1
+Utilities,Solar Utilities,2011,0.2691617257005573,,1
+Utilities,Solar Utilities,2012,0.18096729804501552,,1
+Utilities,Solar Utilities,2013,0.28739727589302927,,1
+Utilities,Solar Utilities,2014,0.38730908460920327,,1
+Utilities,Solar Utilities,2015,0.12032257951077652,,1
+Utilities,Solar Utilities,2016,0.3024680159659985,,1
+Utilities,Solar Utilities,2017,0.4198703691367613,,1
+Utilities,Solar Utilities,2018,0.022037099684117285,,1
+Utilities,Solar Utilities,2019,0.4765175074426296,,1
+Utilities,Solar Utilities,2020,0.17373127538436975,,1
+Utilities,Solar Utilities,2021,0.28233958745627746,,1
+Utilities,Solar Utilities,2022,0.2996124744508137,,1
+Utilities,Solar Utilities,2023,0.23880131229655138,,1
+Utilities,Solar Utilities,2024,0.10399769615250051,,1
+Utilities,Telecommunications Utilities,2010,0.10628715808576376,,1
+Utilities,Telecommunications Utilities,2011,0.10524588648136161,,1
+Utilities,Telecommunications Utilities,2012,0.10328766029198488,,1
+Utilities,Telecommunications Utilities,2013,0.10796899956838225,,1
+Utilities,Telecommunications Utilities,2014,0.10432304002526503,,1
+Utilities,Telecommunications Utilities,2015,0.10405206051762123,,1
+Utilities,Telecommunications Utilities,2016,0.10625885332170036,,1
+Utilities,Telecommunications Utilities,2017,0.1066241452771592,,1
+Utilities,Telecommunications Utilities,2018,0.10516663879134884,,1
+Utilities,Telecommunications Utilities,2019,0.10648187983827968,,1
+Utilities,Telecommunications Utilities,2020,0.10680045071698342,,1
+Utilities,Telecommunications Utilities,2021,0.10324034424986361,,1
+Utilities,Telecommunications Utilities,2022,0.10487209136367513,,1
+Utilities,Telecommunications Utilities,2023,0.10443266357484837,,1
+Utilities,Telecommunications Utilities,2024,0.10484927727012047,,1
+Utilities,Waste Management,2010,0.1447584928928085,,1
+Utilities,Waste Management,2011,0.11429257982412316,,1
+Utilities,Waste Management,2012,0.16024901503930838,,1
+Utilities,Waste Management,2013,0.12364435667711166,,1
+Utilities,Waste Management,2014,0.14958737172744835,,1
+Utilities,Waste Management,2015,0.16991197633636548,,1
+Utilities,Waste Management,2016,0.09587676375165444,,1
+Utilities,Waste Management,2017,0.16696931060374173,,1
+Utilities,Waste Management,2019,0.2507212870705886,,1
+Utilities,Waste Management,2022,0.18432090581777563,,1
+Utilities,Waste Management,2023,0.19777783653667674,,1
+Utilities,Waste Management,2024,0.0910193663582913,,1
+Utilities,Water Utilities,2010,0.113089361389999,,1
+Utilities,Water Utilities,2011,0.10753319318304996,,1
+Utilities,Water Utilities,2012,0.11540489336396216,,1
+Utilities,Water Utilities,2013,0.1119735442495616,,1
+Utilities,Water Utilities,2014,0.11383066105774921,,1
+Utilities,Water Utilities,2015,0.11014507904565654,,1
+Utilities,Water Utilities,2016,0.11646559455054817,,1
+Utilities,Water Utilities,2017,0.10491790396355785,,1
+Utilities,Water Utilities,2018,0.11197157095018082,,1
+Utilities,Water Utilities,2019,0.11678999847685242,,1
+Utilities,Water Utilities,2020,0.1073087557030737,,1
+Utilities,Water Utilities,2021,0.1110361294616722,,1
+Utilities,Water Utilities,2022,0.11311552574114399,,1
+Utilities,Water Utilities,2023,0.11091817144065035,,1
+Utilities,Water Utilities,2024,0.1022545652078247,,1
+Utilities,Wind Power Utilities,2010,0.10601053847924713,,1
+Utilities,Wind Power Utilities,2011,0.10620606201393873,,1
+Utilities,Wind Power Utilities,2012,0.10373331880076626,,1
+Utilities,Wind Power Utilities,2013,0.10609221683631292,,1
+Utilities,Wind Power Utilities,2014,0.10427651452213742,,1
+Utilities,Wind Power Utilities,2015,0.1056613021016034,,1
+Utilities,Wind Power Utilities,2016,0.10478752933777834,,1
+Utilities,Wind Power Utilities,2017,0.10492411918506304,,1
+Utilities,Wind Power Utilities,2018,0.10628736291417139,,1
+Utilities,Wind Power Utilities,2019,0.10509165930726598,,1
+Utilities,Wind Power Utilities,2020,0.10499333995196429,,1
+Utilities,Wind Power Utilities,2021,0.10413585497487533,,1
+Utilities,Wind Power Utilities,2022,0.10591194416653098,,1
+Utilities,Wind Power Utilities,2023,0.10236321009034305,,1
+Utilities,Wind Power Utilities,2024,0.10476016084236657,,1

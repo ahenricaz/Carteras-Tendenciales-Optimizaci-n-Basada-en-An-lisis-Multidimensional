@@ -1,0 +1,150 @@
+ANÁLISIS DE TENDENCIAS
+=====================
+
+Tendencias Globales:
+
+Aerospace:
+- space (Score: 0.684)
+- space (Score: 0.670)
+- space (Score: 0.628)
+- space (Score: 0.626)
+- space (Score: 0.542)
+
+Computer and Technology:
+- learning (Score: 1.000)
+- computing (Score: 0.805)
+- computing (Score: 0.726)
+- computing (Score: 0.694)
+- learning (Score: 0.673)
+
+Construction:
+- design (Score: 0.491)
+- software (Score: 0.491)
+- construction (Score: 0.488)
+- construction (Score: 0.451)
+- design (Score: 0.445)
+
+Energy:
+- distributed (Score: 0.723)
+- cell (Score: 0.669)
+- cell (Score: 0.488)
+- distributed (Score: 0.472)
+- distributed (Score: 0.467)
+
+Finance:
+- regulatory (Score: 0.609)
+- financial (Score: 0.420)
+- cryptocurrency (Score: 0.384)
+- financial (Score: 0.384)
+- blockchain (Score: 0.380)
+
+Medical:
+- medical (Score: 0.733)
+- healthcare (Score: 0.730)
+- healthcare (Score: 0.651)
+- medical (Score: 0.647)
+- medical (Score: 0.633)
+
+Oils-Energy:
+- environmental (Score: 0.341)
+- environmental (Score: 0.294)
+- environmental (Score: 0.265)
+- environmental (Score: 0.251)
+- environmental (Score: 0.242)
+
+Retail-Wholesale:
+- health (Score: 0.640)
+- health (Score: 0.463)
+- health (Score: 0.421)
+- retail (Score: 0.418)
+- retail (Score: 0.378)
+
+Transportation:
+- transport (Score: 0.600)
+- transport (Score: 0.540)
+- transport (Score: 0.518)
+- transport (Score: 0.501)
+- transport (Score: 0.492)
+
+Utilities:
+- energy (Score: 0.527)
+- utilities (Score: 0.512)
+- energy (Score: 0.499)
+- solar (Score: 0.477)
+- solar (Score: 0.420)
+
+Sectores más Dinámicos:
+- Finance: 0.000
+- Oils-Energy: -0.000
+- Utilities: -0.000
+- Aerospace: -0.000
+- Transportation: -0.000
+- Energy: -0.000
+- Retail-Wholesale: -0.001
+- Construction: -0.001
+- Computer and Technology: -0.002
+- Medical: -0.002
+
+Velocidad de Adopción por Sector:
+- Computer and Technology: 3289.45 citas/año
+- Medical: 1681.17 citas/año
+- Energy: 1620.11 citas/año
+- Aerospace: 1051.17 citas/año
+- Utilities: 1009.47 citas/año
+- Construction: 948.57 citas/año
+- Finance: 928.43 citas/año
+- Oils-Energy: 919.09 citas/año
+- Transportation: 669.92 citas/año
+- Retail-Wholesale: 643.63 citas/año
+
+Resumen Estadístico por Sector:
+
+Aerospace:
+  Media: 0.177
+  Desv. Est.: 0.103
+  Max Score: 0.684
+
+Computer and Technology:
+  Media: 0.232
+  Desv. Est.: 0.131
+  Max Score: 1.000
+
+Construction:
+  Media: 0.152
+  Desv. Est.: 0.087
+  Max Score: 0.491
+
+Energy:
+  Media: 0.176
+  Desv. Est.: 0.092
+  Max Score: 0.723
+
+Finance:
+  Media: 0.165
+  Desv. Est.: 0.070
+  Max Score: 0.609
+
+Medical:
+  Media: 0.205
+  Desv. Est.: 0.136
+  Max Score: 0.733
+
+Oils-Energy:
+  Media: 0.151
+  Desv. Est.: 0.047
+  Max Score: 0.341
+
+Retail-Wholesale:
+  Media: 0.124
+  Desv. Est.: 0.070
+  Max Score: 0.640
+
+Transportation:
+  Media: 0.131
+  Desv. Est.: 0.073
+  Max Score: 0.600
+
+Utilities:
+  Media: 0.137
+  Desv. Est.: 0.072
+  Max Score: 0.527

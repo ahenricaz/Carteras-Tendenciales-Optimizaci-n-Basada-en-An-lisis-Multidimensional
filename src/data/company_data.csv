@@ -1,0 +1,349 @@
+Industry,Sector
+Augmented Reality,Computer and Technology
+Blockchain Technology,Computer and Technology
+5G Technology,Computer and Technology
+Data Analytics,Computer and Technology
+Cloud Computing,Computer and Technology
+Artificial Intelligence,Computer and Technology
+Software Development,Computer and Technology
+Big Data Solutions,Computer and Technology
+Edge Computing,Computer and Technology
+Enterprise Software,Computer and Technology
+Quantum Computing,Computer and Technology
+Mobile Technology,Computer and Technology
+IT Services,Computer and Technology
+Internet of Things,Computer and Technology
+Machine Learning,Computer and Technology
+Digital Transformation,Computer and Technology
+Network Infrastructure,Computer and Technology
+Cybersecurity,Computer and Technology
+Virtual Reality,Computer and Technology
+Semiconductor Technology,Computer and Technology
+Remote Patient Monitoring,Medical
+Biotechnology,Medical
+Genomics Research,Medical
+Pharmaceutical Research,Medical
+Medical Robotics,Medical
+Healthcare Technology,Medical
+Healthcare Software,Medical
+Medical Diagnostics,Medical
+Mental Health Technology,Medical
+Medical Imaging,Medical
+Digital Health,Medical
+Personalized Medicine,Medical
+Drug Discovery,Medical
+Medical Devices,Medical
+Health Informatics,Medical
+Biomedical Engineering,Medical
+Healthcare AI,Medical
+Telemedicine,Medical
+Payment Processing,Finance
+Financial Technology,Finance
+Trading Systems,Finance
+Digital Banking,Finance
+Regulatory Technology,Finance
+Cryptocurrency Services,Finance
+Payment Solutions,Finance
+Digital Payments,Finance
+Investment Analytics,Finance
+Risk Management,Finance
+Insurance Technology,Finance
+Financial Software,Finance
+Investment Services,Finance
+Wealth Management,Finance
+Financial AI,Finance
+Blockchain Finance,Finance
+Financial Security,Finance
+Banking Technology,Finance
+Financial Analytics,Finance
+Clean Technology,Oils-Energy
+Waste to Energy,Oils-Energy
+Solar Technology,Oils-Energy
+Energy Management,Oils-Energy
+Energy Efficiency,Oils-Energy
+Smart Grid Solutions,Oils-Energy
+Energy Analytics,Oils-Energy
+Energy IoT,Oils-Energy
+Grid Modernization,Oils-Energy
+Electric Vehicle Tech,Oils-Energy
+Wind Energy,Oils-Energy
+Geothermal Systems,Oils-Energy
+Green Hydrogen,Oils-Energy
+Carbon Capture,Oils-Energy
+Environmental Technology,Oils-Energy
+Battery Technology,Oils-Energy
+Energy Storage,Oils-Energy
+Renewable Energy,Oils-Energy
+Power Systems,Oils-Energy
+Sustainable Energy,Oils-Energy
+Internet of Things (IoT),Computer and Technology
+Big Data,Computer and Technology
+Robotics,Computer and Technology
+3D Printing,Computer and Technology
+Biotechnology,Medical
+Medical Devices,Medical
+Telemedicine,Medical
+Pharmaceuticals,Medical
+Diagnostics,Medical
+Health IT,Medical
+Genomics,Medical
+Health and Wellness,Medical
+Fintech,Finance
+Investment Banking,Finance
+Insurance,Finance
+Credit Services,Finance
+Cryptocurrency,Finance
+Renewable Energy,Energy
+Solar Power,Energy
+Wind Energy,Energy
+Hydropower,Energy
+Energy Storage,Energy
+Geothermal Energy,Energy
+Biofuels,Energy
+Energy Efficiency,Energy
+Web Development,Computer and Technology
+Data Science,Computer and Technology
+Nanotechnology,Computer and Technology
+Wearable Technology,Computer and Technology
+Semiconductor Manufacturing,Computer and Technology
+E-commerce Technology,Computer and Technology
+Clinical Trials,Medical
+Preventive Healthcare,Medical
+Mental Health,Medical
+Fitness Technology,Medical
+Nutraceuticals,Medical
+Personalized Medicine,Medical
+Elder Care,Medical
+Healthcare Robotics,Medical
+Surgical Innovations,Medical
+Public Health Technology,Medical
+Medical Imaging,Medical
+Rehabilitation Technology,Medical
+Hedge Funds,Finance
+Private Equity,Finance
+Real Estate Investment,Finance
+Crowdfunding Platforms,Finance
+Robo-Advisors,Finance
+Digital Wallets,Finance
+Tax Technology,Finance
+Microfinance,Finance
+Financial Risk Management,Finance
+Stock Exchanges,Finance
+Trade Finance,Finance
+Nuclear Energy,Energy
+Smart Grids,Energy
+Energy Analytics,Energy
+Green Hydrogen,Energy
+Battery Manufacturing,Energy
+Energy Consulting,Energy
+Energy Infrastructure,Energy
+Waste-to-Energy,Energy
+Fuel Cell Technology,Energy
+Distributed Energy Resources,Energy
+Energy-as-a-Service,Energy
+Carbon Capture Technology,Energy
+Deep Learning,Computer and Technology
+Mobile App Development,Computer and Technology
+IT Consulting,Computer and Technology
+Gaming Technology,Computer and Technology
+Open Source Development,Computer and Technology
+Hardware Design,Computer and Technology
+Database Management,Computer and Technology
+Artificial Neural Networks,Computer and Technology
+IT Security,Computer and Technology
+High-Performance Computing,Computer and Technology
+Bioinformatics,Computer and Technology
+Embedded Systems,Computer and Technology
+DevOps Tools,Computer and Technology
+Augmented Analytics,Computer and Technology
+Veterinary Medicine,Medical
+Dental Care,Medical
+Home Healthcare,Medical
+Healthcare Supply Chain,Medical
+Emergency Medical Services,Medical
+Healthcare AI,Medical
+Medical Data Platforms,Medical
+Healthcare Apps,Medical
+Pharmacogenomics,Medical
+Cancer Research,Medical
+Treasury Management,Finance
+Pension Funds,Finance
+Asset Management,Finance
+Forex Trading,Finance
+Loan Origination,Finance
+Regulatory Compliance,Finance
+Financial Fraud Prevention,Finance
+Green Finance,Finance
+Alternative Investments,Finance
+Banking Software,Finance
+Oil and Gas Exploration,Energy
+Petrochemicals,Energy
+Thermal Power,Energy
+Renewable Integration,Energy
+Energy Trading,Energy
+Energy Policy Development,Energy
+Marine Energy,Energy
+Hybrid Power Systems,Energy
+Hydrogen Fuel Cells,Energy
+Bioenergy,Energy
+Offshore Wind Farms,Energy
+E-commerce,Retail-Wholesale
+Grocery Stores,Retail-Wholesale
+Department Stores,Retail-Wholesale
+Specialty Retail,Retail-Wholesale
+Fashion Retail,Retail-Wholesale
+Luxury Goods,Retail-Wholesale
+Consumer Electronics Retail,Retail-Wholesale
+Home Improvement Stores,Retail-Wholesale
+Online Marketplaces,Retail-Wholesale
+Automotive Retail,Retail-Wholesale
+Pharmacies,Retail-Wholesale
+Warehouse Clubs,Retail-Wholesale
+Discount Retail,Retail-Wholesale
+Furniture and Home Goods Retail,Retail-Wholesale
+Sporting Goods Retail,Retail-Wholesale
+Toy Stores,Retail-Wholesale
+Office Supplies Retail,Retail-Wholesale
+Bookstores,Retail-Wholesale
+Pet Supplies Retail,Retail-Wholesale
+Beauty and Personal Care Retail,Retail-Wholesale
+Residential Construction,Construction
+Commercial Construction,Construction
+Industrial Construction,Construction
+Infrastructure Development,Construction
+Civil Engineering,Construction
+Heavy Construction,Construction
+Green Building,Construction
+Renovation and Remodeling,Construction
+Construction Materials,Construction
+Concrete Manufacturing,Construction
+Steel Structures,Construction
+Timber Construction,Construction
+Modular Construction,Construction
+Prefabricated Homes,Construction
+Urban Development,Construction
+Bridge Construction,Construction
+Tunnel Construction,Construction
+Road Construction,Construction
+Architectural Design,Construction
+Construction Project Management,Construction
+Airlines,Transportation
+Public Transit,Transportation
+Rail Transport,Transportation
+Maritime Transport,Transportation
+Road Freight Transport,Transportation
+Passenger Transport,Transportation
+Courier Services,Transportation
+Ride-Sharing Services,Transportation
+Logistics and Supply Chain,Transportation
+Freight Forwarding,Transportation
+Trucking Services,Transportation
+Transportation Infrastructure,Transportation
+Aviation Services,Transportation
+Shipping and Ports,Transportation
+Warehousing and Storage,Transportation
+Vehicle Fleet Management,Transportation
+Transport Equipment Manufacturing,Transportation
+Urban Mobility,Transportation
+Electric Vehicle Transport,Transportation
+Autonomous Vehicle Transport,Transportation
+Aircraft Manufacturing,Aerospace
+Space Exploration,Aerospace
+Defense Contractors,Aerospace
+Satellites,Aerospace
+Aviation Services,Aerospace
+Drone Technology,Aerospace
+Rocket Propulsion Systems,Aerospace
+Aerospace Engineering,Aerospace
+Aerospace Components,Aerospace
+Unmanned Aerial Vehicles,Aerospace
+Military Aircraft,Aerospace
+Commercial Aircraft,Aerospace
+Space Tourism,Aerospace
+Satellite Communication,Aerospace
+Missile Systems,Aerospace
+Spacecraft Manufacturing,Aerospace
+Astronaut Training Services,Aerospace
+Avionics,Aerospace
+Aircraft Maintenance,Aerospace
+Aerospace Materials,Aerospace
+Electric Utilities,Utilities
+Water Utilities,Utilities
+Natural Gas Utilities,Utilities
+Waste Management,Utilities
+Recycling Services,Utilities
+Renewable Energy Utilities,Utilities
+Energy Distribution,Utilities
+Wastewater Treatment,Utilities
+Telecommunications Utilities,Utilities
+District Heating,Utilities
+Public Lighting,Utilities
+Stormwater Management,Utilities
+Grid Management,Utilities
+Energy Storage Solutions,Utilities
+Clean Energy Integration,Utilities
+Smart Meters,Utilities
+Utility Maintenance Services,Utilities
+Sewage and Sanitation,Utilities
+Nuclear Utilities,Utilities
+Bioenergy Utilities,Utilities
+Retail Tech Solutions,Retail-Wholesale
+Warehouse Management,Retail-Wholesale
+Health and Wellness Retail,Retail-Wholesale
+Subscription Retail Services,Retail-Wholesale
+Second-Hand Retail,Retail-Wholesale
+Pop-Up Retail,Retail-Wholesale
+Omnichannel Retail,Retail-Wholesale
+B2B Wholesale Platforms,Retail-Wholesale
+Last-Mile Delivery Services,Retail-Wholesale
+Retail Analytics,Retail-Wholesale
+Sustainable Construction,Construction
+Smart Cities Development,Construction
+Heavy Civil Construction,Construction
+Construction Equipment Manufacturing,Construction
+Construction Materials Supply,Construction
+Eco-Friendly Construction Materials,Construction
+3D Printing in Construction,Construction
+Construction Safety Solutions,Construction
+Digital Twins in Construction,Construction
+Construction Robotics,Construction
+Construction Software and Analytics,Construction
+Public Transit Systems,Transportation
+Logistics and Supply Chain Management,Transportation
+Courier and Parcel Delivery,Transportation
+Ride-Sharing Platforms,Transportation
+Transportation Infrastructure Development,Transportation
+Hyperloop Technology,Transportation
+Transport Data Analytics,Transportation
+Smart Transportation Systems,Transportation
+Last-Mile Logistics,Transportation
+Cold Chain Logistics,Transportation
+Drone Delivery Systems,Transportation
+Multimodal Transportation Solutions,Transportation
+Satellite Manufacturing,Aerospace
+Commercial Aviation,Aerospace
+Military Aviation,Aerospace
+Unmanned Aerial Vehicles (UAVs),Aerospace
+Avionics Development,Aerospace
+Hypersonic Technology,Aerospace
+Space Mining,Aerospace
+Astrobiology,Aerospace
+Space Debris Management,Aerospace
+Orbital Infrastructure Development,Aerospace
+Reusable Rockets,Aerospace
+Aerospace Propulsion Systems,Aerospace
+Aerospace AI and Automation,Aerospace
+Aerospace Research and Development,Aerospace
+Smart Grids,Utilities
+District Heating and Cooling,Utilities
+Public Lighting Solutions,Utilities
+Smart Metering,Utilities
+Energy Analytics,Utilities
+Hydroelectric Utilities,Utilities
+Solar Utilities,Utilities
+Wind Power Utilities,Utilities
+Decentralized Energy Systems,Utilities
+Carbon Capture Services,Utilities
+Hydrogen Utilities,Utilities
+Energy-as-a-Service Platforms,Utilities
+Battery Recycling,Utilities

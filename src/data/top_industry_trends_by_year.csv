@@ -1,0 +1,76 @@
+year,rank,industry,composite_score,total_citations,impact_score,normalized_score,top_keywords
+2010,1,High-Performance Computing,0.8259,175908,0.2514,0.4839,"computing, computing, cloud computing"
+2010,2,Healthcare Apps,0.7251,58469,0.2606,0.6515,healthcare
+2010,3,Deep Learning,0.5949,84062,0.2517,0.2612,learning
+2010,4,Cloud Computing,0.5803,55069,0.2559,0.3718,cloud
+2010,5,Genomics,0.5788,48416,0.2103,0.4023,"genomics, genomics"
+2011,1,Deep Learning,0.7291,155737,0.3874,0.4114,learning
+2011,2,Healthcare Apps,0.6634,25070,0.1953,0.4105,healthcare
+2011,3,High-Performance Computing,0.5488,79211,0.1779,0.1771,"computing, cloud computing, computing"
+2011,4,Remote Patient Monitoring,0.5346,51424,0.2042,0.3226,"patient, monitoring"
+2011,5,Cloud Computing,0.4912,38287,0.2108,0.2885,cloud
+2012,1,Healthcare Apps,0.71,23848,0.1791,0.5317,healthcare
+2012,2,Remote Patient Monitoring,0.6624,72708,0.1801,0.2998,"patient, monitoring, remote"
+2012,3,Artificial Neural Networks,0.5996,170752,0.182,0.2437,"neural networks, artificial, artificial intelligence"
+2012,4,Genomics,0.5755,83142,0.2181,0.3259,"genomics, genomics"
+2012,5,High-Performance Computing,0.5663,77774,0.1739,0.4133,"computing, computing, cloud computing"
+2013,1,Healthcare Apps,0.7625,29512,0.193,0.5786,healthcare
+2013,2,Genomics,0.6453,53603,0.2135,0.2257,"genomics, genomics"
+2013,3,High-Performance Computing,0.6387,65149,0.1558,0.2439,"computing, computing, cloud computing"
+2013,4,Internet of Things (IoT),0.526,55836,0.1767,0.233,"internet, internet things, things"
+2013,5,Artificial Neural Networks,0.5223,79719,0.1444,0.1223,"artificial, artificial intelligence, neural networks"
+2014,1,Deep Learning,0.6156,166461,0.4344,0.6726,learning
+2014,2,Healthcare Apps,0.5334,18868,0.1586,0.3053,healthcare
+2014,3,High-Performance Computing,0.4647,69950,0.1813,0.3945,"computing, computing, cloud computing"
+2014,4,Artificial Neural Networks,0.4593,178067,0.2081,0.2487,"neural networks, artificial, artificial intelligence"
+2014,5,Medical Data Platforms,0.4124,31640,0.1437,0.3727,"medical, medical imaging"
+2015,1,Deep Learning,0.9242,367398,0.8956,1.0,learning
+2015,2,High-Performance Computing,0.385,58068,0.1849,0.3054,"computing, computing, cloud computing"
+2015,3,Artificial Neural Networks,0.3678,203508,0.2484,0.2191,"neural networks, artificial, artificial intelligence"
+2015,4,Healthcare Apps,0.3467,24307,0.1841,0.6254,healthcare
+2015,5,Medical Data Platforms,0.3428,30422,0.1473,0.2974,"medical, medical imaging"
+2016,1,Deep Learning,0.7788,251107,0.664,0.0835,learning
+2016,2,Healthcare Apps,0.4809,25286,0.1909,0.4858,healthcare
+2016,3,Artificial Neural Networks,0.4301,207269,0.2615,0.2196,"neural networks, artificial, artificial intelligence"
+2016,4,Remote Patient Monitoring,0.4223,56924,0.1976,0.3283,"patient, remote, monitoring"
+2016,5,High-Performance Computing,0.4042,82167,0.1863,0.3433,"computing, computing, cloud computing"
+2017,1,Deep Learning,0.6955,215292,0.6511,0.6115,learning
+2017,2,Healthcare Apps,0.5701,26019,0.1881,0.4788,healthcare
+2017,3,High-Performance Computing,0.566,85415,0.2178,0.442,"computing, computing, cloud computing"
+2017,4,Artificial Neural Networks,0.5488,204109,0.3529,0.2638,"neural networks, artificial intelligence"
+2017,5,Remote Patient Monitoring,0.494,51630,0.1978,0.3673,"monitoring, remote"
+2018,1,High-Performance Computing,0.8866,137255,0.2463,0.4718,"computing, computing, cloud computing"
+2018,2,Healthcare Apps,0.7119,24274,0.2008,0.57,healthcare
+2018,3,Artificial Neural Networks,0.645,123062,0.2343,0.1795,"artificial, artificial intelligence, neural networks"
+2018,4,Internet of Things (IoT),0.6131,104009,0.2409,0.3138,"internet things, internet, things"
+2018,5,Cloud Computing,0.6018,21661,0.2269,0.2696,cloud
+2019,1,Deep Learning,0.6208,202674,0.6053,0.4474,learning
+2019,2,Healthcare Apps,0.5952,19261,0.1942,0.4705,healthcare
+2019,3,High-Performance Computing,0.5348,61561,0.2034,0.2359,"computing, computing, cloud computing"
+2019,4,Cloud Computing,0.4639,26973,0.2584,0.4419,cloud
+2019,5,Remote Patient Monitoring,0.4516,48948,0.2035,0.3457,"patient, monitoring, remote"
+2020,1,Deep Learning,0.8582,116046,0.4788,0.3066,learning
+2020,2,Healthcare Apps,0.6329,20343,0.1779,0.4362,healthcare
+2020,3,Remote Patient Monitoring,0.6014,54693,0.203,0.3106,"patient, monitoring, remote"
+2020,4,Cloud Computing,0.5503,13628,0.2254,0.2624,cloud
+2020,5,High-Performance Computing,0.5342,39902,0.1938,0.3957,"computing, computing, cloud computing"
+2021,1,Deep Learning,0.7678,100403,0.4831,0.4717,learning
+2021,2,Healthcare Apps,0.6356,13300,0.221,0.7298,healthcare
+2021,3,Remote Patient Monitoring,0.5443,24425,0.2428,0.472,"monitoring, remote"
+2021,4,High-Performance Computing,0.511,15629,0.1704,0.3708,"computing, cloud computing"
+2021,5,Medical Data Platforms,0.4512,28384,0.1402,0.2563,"medical, medical devices, medical imaging"
+2022,1,Deep Learning,0.7585,31712,0.3134,0.1371,learning
+2022,2,Healthcare Apps,0.6466,6112,0.1704,0.2331,healthcare
+2022,3,High-Performance Computing,0.5526,14957,0.1501,0.2253,"computing, computing, cloud computing"
+2022,4,Internet of Things (IoT),0.5299,20935,0.1765,0.1996,"internet, internet things, things"
+2022,5,Cloud Computing,0.5231,7517,0.1867,0.215,cloud
+2023,1,Deep Learning,0.7114,18102,0.2754,0.3207,learning
+2023,2,Artificial Neural Networks,0.6953,33551,0.1672,0.2044,"artificial, artificial intelligence, neural networks"
+2023,3,Augmented Analytics,0.6521,12801,0.1489,0.2182,"augmented, augmented"
+2023,4,High-Performance Computing,0.6309,10895,0.1292,0.2784,"computing, computing, cloud computing"
+2023,5,Healthcare Apps,0.6306,5421,0.1414,0.3886,healthcare
+2024,1,Deep Learning,0.8061,7060,0.1525,0.0999,learning
+2024,2,Artificial Neural Networks,0.5942,7866,0.0867,0.0784,"neural networks, artificial, artificial intelligence"
+2024,3,Healthcare Apps,0.594,1012,0.0778,0.1109,healthcare
+2024,4,Remote Patient Monitoring,0.5904,4486,0.0782,0.1023,"remote, monitoring, patient"
+2024,5,Medical Data Platforms,0.581,4731,0.0665,0.0721,"medical devices, medical imaging, medical"
