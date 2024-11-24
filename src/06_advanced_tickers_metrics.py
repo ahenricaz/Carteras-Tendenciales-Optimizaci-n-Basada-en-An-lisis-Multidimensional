@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 
-# Ruta de la carpeta donde están los datos históricos de los tickers
+# Ruta de la carpeta donde están los datos históricos de los tickers 
 data_folder = "data/tickers_data"
 output_folder = "data/metrics_advanced"
 os.makedirs(output_folder, exist_ok=True)
