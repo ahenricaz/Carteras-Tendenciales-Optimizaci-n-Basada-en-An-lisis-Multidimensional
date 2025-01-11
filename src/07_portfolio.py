@@ -70,18 +70,31 @@ def calculate_real_return(weights, ticker_data, year):
 
     return portfolio_return
 
-def calculate_sharpe_ratio(annual_return, volatility, year, risk_free_rates):
+def calculate_sharpe_ratio(annual_return, annual_volatility, year, risk_free_rates):
     """
-    Calcula el ratio de Sharpe ajustado a la tasa libre de riesgo histórica.
+    Calcula el ratio de Sharpe ajustado a la tasa libre de riesgo.
 
     :param annual_return: Retorno anual del activo.
-    :param volatility: Volatilidad anual del activo.
+    :param annual_volatility: Volatilidad anual del activo.
     :param year: Año de análisis.
     :param risk_free_rates: Diccionario con tasas libres de riesgo por año.
     :return: Ratio de Sharpe.
     """
-    risk_free_rate = risk_free_rates.get(year, 0.02)  # Valor por defecto si el año no está presente
-    return (annual_return - risk_free_rate) / volatility if volatility != 0 else 0
+    try:
+        # Obtener la tasa libre de riesgo para el año
+        risk_free_rate = risk_free_rates.get(year, 0.02)  # Valor por defecto si no hay tasa
+        
+        # Validar que la volatilidad no sea extremadamente baja
+        if annual_volatility <= 1e-6:
+            logging.warning(f"Volatilidad extremadamente baja para el año {year}. Retorno ajustado a 0.")
+            return 0
+        
+        # Cálculo del Sharpe Ratio
+        sharpe_ratio = (annual_return - risk_free_rate) / annual_volatility
+        return sharpe_ratio
+    except Exception as e:
+        logging.error(f"Error calculando Sharpe Ratio: {str(e)}")
+        return 0
 
 def align_monthly_returns(tickers_metrics):
     """
@@ -185,12 +198,12 @@ def optimize_portfolio(tickers_metrics, year, risk_free_rates, max_companies=30)
         print(f"Pesos finales: {result.x}")
         return None
 
-def find_optimal_portfolio_multicriteria(tickers_metrics, year, ticker_data, risk_free_rates, min_companies, max_companies):
+def find_optimal_portfolio(tickers_metrics, year, ticker_data, risk_free_rates, min_companies, max_companies):
     """
     Encuentra la cartera óptima para un rango de tamaños de cartera utilizando un enfoque multicriterio.
 
-    Este enfoque considera factores como el ratio de Sharpe, la volatilidad, 
-    la diversificación y las tendencias para evaluar la calidad de la cartera.
+    Este enfoque considera factores como el ratio de Sharpe, la diversificación 
+    y las tendencias para evaluar la calidad de la cartera.
 
     :param tickers_metrics: Diccionario con métricas de los activos.
     :param year: Año de análisis.
@@ -228,10 +241,9 @@ def find_optimal_portfolio_multicriteria(tickers_metrics, year, ticker_data, ris
 
             # Crear un índice compuesto
             quality_index = (
-                0.4 * portfolio_sharpe  # Sharpe ratio
-                - 0.3 * portfolio_volatility  # Penalizar volatilidad
-                + 0.2 * diversification  # Fomentar diversificación
-                + 0.1 * trend_score  # Incorporar tendencia
+                0.4 * portfolio_sharpe  # Ratio de Sharpe
+                + 0.3 * diversification  # Fomentar diversificación
+                + 0.3 * trend_score  # Incorporar tendencia
             )
 
             logging.info(f"Índice de calidad para {num_companies} empresas: {quality_index:.4f}")
@@ -250,6 +262,7 @@ def find_optimal_portfolio_multicriteria(tickers_metrics, year, ticker_data, ris
         logging.warning(f"No se encontró una cartera óptima para el año {year}.")
 
     return best_portfolio, best_num_companies, best_quality_index
+
 
 def calculate_metrics(ticker_data, advanced_metrics, ticker, year, trends, tickers_info, risk_free_rates):
     """
@@ -280,9 +293,12 @@ def calculate_metrics(ticker_data, advanced_metrics, ticker, year, trends, ticke
         if len(monthly_returns) < 6:
             return None
         
-        annual_return = (1 + monthly_returns).prod() - 1
         daily_returns = year_data['Adj Close'].pct_change().dropna()
-        volatility = daily_returns.std() * np.sqrt(252)
+        annual_return = np.prod(1 + daily_returns) ** (252 / len(daily_returns)) - 1
+
+        daily_volatility = daily_returns.std()
+        volatility = daily_volatility * np.sqrt(252)
+
         sharpe = calculate_sharpe_ratio(annual_return, volatility, year, risk_free_rates)
 
         rolling_max = year_data['Adj Close'].expanding(min_periods=1).max()
